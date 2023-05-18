@@ -64,7 +64,7 @@ The advantages of Reciprocating Pump include the following.<br>
 •	Pressure and flow rate changes have little effect on performance<br>
 •	Reciprocating pumps generally operate at higher efficiencies than other pumps, generally reaching levels of 85% or more efficiency<br>
 •	A reciprocating pump provides a steady, unchanging flow rate<br>
-<b>6 Disadvantages of Reciprocating Pump</b>
+<b>6 Disadvantages of Reciprocating Pump</b><br>
 The disadvantages of the Reciprocating Pump include the following.<br>
 •	Pulsating flow<br>
 •	Typically handles only low flow rates<br>
