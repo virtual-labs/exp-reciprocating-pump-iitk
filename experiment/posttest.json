@@ -104,11 +104,8 @@
       "difficulty": "beginner"
     },
     {
-      "question": "7)Which of the following are the beneficial effects of air vessel fitted to the delivery side of a reciprocating pump ",
-      "1" : "Ensuring Constant rate of discharge",
-      "2" : "Reduction in power consumption ",
-      "3" : "Increase in discharge",
-      "answers": {
+      "question": "7)Which of the following are the beneficial effects of air vessel fitted to the delivery side of a reciprocating pump ? <br> 1: Ensuring Constant rate of discharge <br> 2: Reduction in power consumption <br> 3: Increase in discharge",
+        "answers": {
         "a": "1 and 2",
         "b": "2 and 3",
         "c": "All of the above",
