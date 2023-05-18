@@ -44,4 +44,17 @@ d<sub> s </sub> = Diameter of suction pipe<br>
 5.	Measure the number of strokes occurring in a given time and hence obtain the speed of the piston in RPM<br>
 6.	Change the opening of the delivery valve<br>
 7.	Repeat steps 3 to 6 for atleast ten different openings of the delivery valve<br> 
-
+<b> 8.3	Observations - </b><br>
+1.	Diameter of the piston, D = …………..<br>
+2.	Stroke length of the piston, L = ………….<br>
+3.	Wattmeter constant, k = …………….<br>
+4.	Diameter of delivery Pipe, d<sub> d </sub> = ………….<br>
+5.	Diameter of suction Pipe, d<sub> s </sub> = ……………<br>
+6.	Distance of pressure gauge tapping on the delivery side of the pump axis, Z<sub> d </sub> = …………..<br>
+7.	Distance of pressure gauge tapping on the suction side of the pump axis, Z<sub> s </sub> = …………….<br>
+<img src="images/image.png" alt="images/image.png" class="center"><br>
+<b> 8.4	Graphs </b> <br>
+Plot the following curves <br>
+(1)	Speed Vs. <br>
+(2)	Speed Vs. <br>
+(3)	Speed Vs.<br>
