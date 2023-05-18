@@ -3,15 +3,18 @@
 When mechanical energy is converted into stored mechanical energy or pressure energy by help of suction of the liquid into the cylinder with the help of the piston inside a cylinder which is reciprocating forward and backward, which in turn exerts the thrust on the liquid and henceforth increases its hydraulic energy or pressure energy. This kind of hydraulic machine is termed as reciprocating pump. <br>
 A reciprocating pump is also known as positive displacement pump. Since it discharges a fixed quantity of liquid. Reciprocating pump is mostly used in applications where a small volume of liquid is to be handled and delivery pressure requirement are quite high. Broadly, there are two types of reciprocating pump, <br>
 <b> Parts of a Reciprocating Pump</b><br>
-<img src="images/Picture2.jpg" alt="images/Picture2.jpg" class="center">
+<img src="images/Picture2.jpg" alt="images/Picture2.jpg" class="center"><br>
 {Fig. 1: Basic parts of Reciprocating Pump-align: center;} <br>
 The following are the basic parts of the reciprocating pump.<br>
-1.	Cylinder<br>                       		2. Suction Pipe<br>
-3.	Delivery Pipe<br>              		4. Suction valve<br>
-5.	Delivery valve<br>            		6. Piston and piston rod<br>
-7.	Crank and connecting rod<br>       8. Strainer<br>
+1.	Cylinder<br>
+2. Suction Pipe<br>
+3.	Delivery Pipe<br>
+4. Suction valve<br>
+5.	Delivery valve<br>            	
+6. Piston and piston rod<br>
+7.	Crank and connecting rod<br>        
+8. Strainer<br>
 9.	Air vessels<br>
-
 1.	Cylinder<br> 
 The cylindrical cavity in which the piston moves to and fro is called Cylinder. The to and fro movement of the piston is obtained by a connecting rod, which connects the piston and crank.<br>
 2.	Suction Pipe<br>
@@ -30,7 +33,7 @@ Crank and connection rod covert rotatory motion of the motor shaft into the line
 A strainer is essentially a sieve kind of filter which prevents the entry of solids from the water source into the cylinders.<br>
 9.	Air Vessels<br>
 It is a closed chamber made up of cast iron. It has two ends. One end is open at its base through which the water flows into the vessel cylinder. The air vessels are fitted on the suction pipe and delivery pipe of reciprocating pump to obtain a uniform discharge.<br>
-<img src="images/Picture3.jpg" alt="images/Picture3.jpg" class="center">
+<img src="images/Picture3.jpg" alt="images/Picture3.jpg" class="center"><br>
 {Fig. 2: Air Vessels in Reciprocating Pump-align: center;} <br> 
 Functions of Air Vessels<br>
 •	The air vessels is used to obtain continuous flow of water at a uniform rate.<br>
