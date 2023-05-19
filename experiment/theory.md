@@ -34,6 +34,7 @@ Crank and connection rod covert rotatory motion of the motor shaft into the line
 A strainer is essentially a sieve kind of filter which prevents the entry of solids from the water source into the cylinders.<br>
 9.	Air Vessels<br>
 It is a closed chamber made up of cast iron. It has two ends. One end is open at its base through which the water flows into the vessel cylinder. The air vessels are fitted on the suction pipe and delivery pipe of reciprocating pump to obtain a uniform discharge.<br>
+
 <img src="images/Picture3.jpg" alt="images/Picture3.jpg" class="center"><br>
 {Fig. 2: Air Vessels in Reciprocating Pump-align: center;} <br> 
 Functions of Air Vessels<br>
