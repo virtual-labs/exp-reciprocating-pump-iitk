@@ -15,6 +15,7 @@ The following are the basic parts of the reciprocating pump.<br>
 7.	Crank and connecting rod<br>        
 8. Strainer<br>
 9.	Air vessels<br>
+
 1.	Cylinder<br> 
 The cylindrical cavity in which the piston moves to and fro is called Cylinder. The to and fro movement of the piston is obtained by a connecting rod, which connects the piston and crank.<br>
 2.	Suction Pipe<br>
