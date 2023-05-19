@@ -3,8 +3,10 @@
 When mechanical energy is converted into stored mechanical energy or pressure energy by help of suction of the liquid into the cylinder with the help of the piston inside a cylinder which is reciprocating forward and backward, which in turn exerts the thrust on the liquid and henceforth increases its hydraulic energy or pressure energy. This kind of hydraulic machine is termed as reciprocating pump. <br>
 A reciprocating pump is also known as positive displacement pump. Since it discharges a fixed quantity of liquid. Reciprocating pump is mostly used in applications where a small volume of liquid is to be handled and delivery pressure requirement are quite high. Broadly, there are two types of reciprocating pump, <br>
 <b> Parts of a Reciprocating Pump</b><br>
+
 <img src="images/Picture2.jpg" alt="images/Picture2.jpg" class="center"><br>
 {Fig. 1: Basic parts of Reciprocating Pump-align: center;} <br>
+
 The following are the basic parts of the reciprocating pump.<br>
 1.	Cylinder<br>
 2. Suction Pipe<br>
@@ -14,36 +16,41 @@ The following are the basic parts of the reciprocating pump.<br>
 6. Piston and piston rod<br>
 7.	Crank and connecting rod<br>        
 8. Strainer<br>
-9.	Air vessels<br><br>
+9.	Air vessels<br>
 
-1.	Cylinder<br> 
+1.Cylinder<br> 
 The cylindrical cavity in which the piston moves to and fro is called Cylinder. The to and fro movement of the piston is obtained by a connecting rod, which connects the piston and crank.<br>
-2.	Suction Pipe<br>
+2.Suction Pipe<br>
 Is a pipe which connects source of water to the cylinder. It lets the water into the cylinder during suction stroke.<br>
-3.	Delivey Pipe<br>  
+3.Delivey Pipe<br>  
 The delivery pipe connects the pump cylinder to the discharge outlet.<br>
-4.	Suction Valve<br>
+4.Suction Valve<br>
 In this valve, the flow of water enters from the suction pipe into the cylinder. It allows uni-directional flow of the liquid. Hence it is also known as a non-return valve. This valve is found on the suction pipe inlet.<br>
-5.	Delivery Valve<br>
+5.Delivery Valve<br>
 With this valve, the flow of water is discharged from the cylinder into the delivery pipe. It is also a non-return valve located between the delivery pipe outlets. The valve is in the closed position during suction.<br>
-6.	Piston head and piston rod<br>
+6.Piston head and piston rod<br>
 Piston head is a solid part attached to one of the end of the piston rod. Piston head fits tightly inside the cylinder and creaetes vaccum for suction of the liquid during suction stroke. While  the piston rod helps the piston to move in a linear direction and its other end is connected to connecting rod<br>
-7.	Crank and connecting rod<br>     
+7.Crank and connecting rod<br>     
 Crank and connection rod covert rotatory motion of the motor shaft into the linear motion of piston. A crank is a circular disc that is connected to a motor. While the connecting rod connects the crank to the piston rod.<br> 
-8.	Strainer<br>
+8.Strainer<br>
 A strainer is essentially a sieve kind of filter which prevents the entry of solids from the water source into the cylinders.<br>
-9.	Air Vessels<br>
+9.Air Vessels<br>
 It is a closed chamber made up of cast iron. It has two ends. One end is open at its base through which the water flows into the vessel cylinder. The air vessels are fitted on the suction pipe and delivery pipe of reciprocating pump to obtain a uniform discharge.<br>
 
 <img src="images/Picture3.jpg" alt="images/Picture3.jpg" class="center"><br>
 {Fig. 2: Air Vessels in Reciprocating Pump-align: center;} <br> 
+
 Functions of Air Vessels<br>
+
 •	The air vessels is used to obtain continuous flow of water at a uniform rate.<br>
 •	Reduces work loss due to overcoming the frictional resistance in the suction pipe and delivery pipe.<br>
 •	To run the pump at high speed with separation,<br>
 <img src="images/Picture4.jpg" alt="images/Picture4.jpg" class="center"><br>
+
 <b>	Working Principle of Reciprocating Pumps</b><br>
+
 <img src="images/Picture5.jpg" alt="images/Picture5.jpg" class="center"><br>
+
 {Graph 1: Cycle of Single and Double Acting reciprocating pump-align: center;} <br>
 Following are the two different working principles:<br>
 •	Single-acting reciprocating pump <br>
