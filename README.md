@@ -10,7 +10,7 @@
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Prof. J. Ramkumar, Dr. Amandeep Singh
+<b>Name of Developer | <b> Prof. J. Ramkumar,  Dr. Amandeep Singh
 :--|:--|
 <b> Institute | <b>  IIT Kanpur
 <b> Email id|     <b>  jrkumar@iitk.ac.in, adsingh@iitk.ac.in
