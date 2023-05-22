@@ -20,5 +20,5 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Lakshaman Das  | Student | . |REC Banda| 2107340400013@recbanda.ac.in
-2 | Mubashir Ali | Staff | . | IIT Kanpur | mali@iitk.ac.in
+1 | Lakshaman Das  | Student | Mechanical Engineering |REC Banda| 2107340400013@recbanda.ac.in
+2 | Mubashir Ali | Faculty |Mechanical Engineering | IIT Kanpur | mali@iitk.ac.in
