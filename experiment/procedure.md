@@ -1,7 +1,7 @@
 ## Formulae <br>
 1.  Total Head (H)= 10 × (Suction Pressure + Delivery Pressure) in m <br>
 
-2. Q=  (A×h)/t  <br>  
+2. Q=  (A×h)/t  
 Q= Actual discharge <br>
 A = Cross-sectional area of the discharge/collection tank <br>
 h = Height of tank to be filled (0.1 m or 10 cm) <br>
