@@ -6,7 +6,7 @@ Q= Actual discharge <br>
 A = Cross-sectional area of the discharge/collection tank <br>
 h = Height of tank to be filled (0.1 m or 10 cm) <br>
 t = Time to fill 10 cm of tank <br>
-3. 	Power input for single acting reciprocating pump <br>
+3. Power input for single acting reciprocating pump <br>
 P<sub>Input</sub>=(3.6×10×n ×1.36)/(K ×t<sub>rev</sub> ) <br>
 n= Number of meter revolutions (10 in this case) <br>
 t<sub>rev</sub>= Time taken for 10-meter revolutions <br>
