@@ -1,4 +1,4 @@
-## Formulae <br>
+<b> Formulae –  </b><br>
 1.  Total Head (H)= 10 × (Suction Pressure + Delivery Pressure) in m <br>
 
 2. Q=  (A×h)/t  
@@ -18,7 +18,7 @@ Q = Actual discharge <br>
 H = Total head <br>
 5. η=P<sub>Output</sub>/P<sub>Input</sub> ×100 <br>
 
-## Procedure – 
+<b> Procedure –</b> <br>
 
 1. Start the motor and open the delivery valve fully <br>
 2. Set the Suction pressure to 0 Kg/cm<sup>2</sup>,  <br>
@@ -27,13 +27,14 @@ H = Total head <br>
 5. Note down the time t<sub>rev</sub> in seconds for 10 revolutions of meter <br>
 6. Repeat steps 3 to 6 for suction pressure of 1,2,3 and 3.5 Kg/cm<sup>2</sup> <br>
 
-## Observations - <br>
+<b> Observations - </b><br>
+
 Cross-sectional area of the discharge/collection tank, A = 0.25 m<sup>2</sup> <br>
 Height of tank to be filled, h = 0.1 m or 10 cm <br>
 Meter constant, K= 15.018 <br>
 Specific weight of water,  W= 1000 Kg/m<sup>3</sup> <br>
 
-## Calculations <br>
+<b> Calculations – </b> <br>
 
  Perform the following calculations for each opening of the delivery valve:
 1. Total Head (H)= 10 × (Suction Pressure + Delivery Pressure) in m <br>
