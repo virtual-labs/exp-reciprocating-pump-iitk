@@ -3,11 +3,1217 @@
 <head>
 	<!-- Add CSS at the head of HTML file -->
     <link rel="stylesheet" href="./css/main.css">
+		
 </head>
 <body>
-		<!-- Your code goes here-->
 
-	<!-- Add JS at the bottom of HTML file --> 
-        <script src="./js/main.js"></script>
-</body>
-</html>
+	<audio id="audio" loop>
+		<source src="./images/motor_audio.mp3" type="audio/mpeg">
+	</audio>
+
+
+		<div class="sim" >
+			<p style="text-align: center;background-color: #634380;font-weight: bolder;padding: 6px 0 6px 0; font-size: larger;
+    		margin-top:0px;color: white">
+            RECIPROCATING PUMP SIMULATION</p>
+			<div class="sim_table"  >
+				<div class="item1">
+
+					<div id="mycanvas" >
+
+						<!-- <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1607.7 847.7" style="enable-background:new 0 0 1607.7 847.7;" xml:space="preserve">
+<style type="text/css"> -->
+	<!-- svg daalna hai  -->
+	
+	<svg version="1.1"
+	 id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1580.1 847.7"
+	 style="enable-background:new 0 0 1580.1 847.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{enable-background:new    ;}
+	.st1{fill:#005460;}
+	.st2{fill:#005D6B;}
+	.st3{fill:#808080;}
+	.st4{fill:#8F8F8F;}
+	.st5{fill:#E9E9E9;}
+	.st6{fill:#0098AE;}
+	.st7{fill:#8AE3FF;}
+	.st8{fill:#00554F;}
+	.st9{fill:#005F58;}
+	.st10{opacity:0.9;}
+	.st11{fill:#F1FF8D;stroke:#F1FFA1;stroke-width:3;stroke-miterlimit:10;}
+	.st12{fill:#8AE3FF;stroke:#000000;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#005F58;stroke-width:3;stroke-miterlimit:10;}
+	.st14{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st15{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st16{font-family:'ArialMT';}
+	.st17{font-size:45.7156px;}
+	.st18{font-size:45px;}
+	.st19{font-family:'TimesNewRomanPS-BoldMT';}
+	.st20{font-size:32px;}
+	.st21{letter-spacing:25.9;}
+	.st22{font-size:19.7019px;}
+	.st23{font-size:47.7148px;}
+	.st24{fill:none;stroke:#23005F;stroke-width:0.75;stroke-miterlimit:10;}
+	.st25{fill:#FFFFFF;}
+	.st26{font-size:10.7074px;}
+	.st27{fill:#009FB4;}
+	.st28{fill:#D1D3D4;}
+	.st29{fill:#1A2D58;}
+	.st30{fill:#808285;}
+	.st31{fill:#CBCDCF;}
+	.st32{fill:#081835;}
+	.st33{font-size:20px;}
+	.st34{fill:none;}
+	.st35{fill:#962511;}
+	.st36{fill:none;stroke:#231F20;stroke-width:2;stroke-miterlimit:10;}
+	.st37{fill:#3B3C3C;}
+	.st38{font-size:12.3261px;}
+	.st39{font-size:31.5457px;}
+	.st40{font-family:'Arial-BoldMT';}
+	.st41{font-size:17.3864px;}
+	.st42{font-size:27.8182px;}
+	.st43{letter-spacing:20.1;}
+	.st44{fill:none;stroke:#231F20;stroke-width:1.5736;stroke-miterlimit:7.8682;}
+	.st45{fill:#828487;stroke:#FFFFFF;stroke-width:1.5736;stroke-miterlimit:7.8682;}
+	.st46{fill:#231F20;stroke:#000000;stroke-width:1.5736;stroke-miterlimit:7.8682;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="namedview1418" inkscape:current-layer="Layer_1" inkscape:cx="525.06792" inkscape:cy="403.29012" inkscape:deskcolor="#d1d1d1" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:showpageshadow="2" inkscape:window-height="991" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:zoom="0.94844873" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g id="g980">
+	<g id="g978">
+		<g id="g976">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="1067" height="118" id="image974" xlink:href="B5BEEBF3.png"  transform="matrix(0.999 0 0 0.999 185.5744 680.2949)">
+			</image>
+		</g>
+	</g>
+</g>
+<g id="g986">
+	<g id="g984">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="646" height="271" id="image982" xlink:href="B5BEEBF1.png"  transform="matrix(0.9981 0 0 0.9981 595.6044 503.8862)">
+		</image>
+	</g>
+</g>
+<g id="g992">
+	<g id="g990">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="88" height="511" id="image988" xlink:href="B5BEEBFE.png"  transform="matrix(0.4891 0 0 0.4891 222.0019 540.2811)">
+		</image>
+	</g>
+</g>
+<g id="g998">
+	<g id="g996">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="86" height="512" id="image994" xlink:href="B5BEEBFF.png"  transform="matrix(0.4885 0 0 0.4885 267.6013 488.3259)">
+		</image>
+	</g>
+</g>
+<g id="g1004">
+	<g id="g1002">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="88" height="512" id="image1000" xlink:href="B5BEEBF2.png"  transform="matrix(0.4881 0 0 0.4881 514.9359 488.4066)">
+		</image>
+	</g>
+</g>
+<g id="g1010">
+	<g id="g1008">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="88" height="512" id="image1006" xlink:href="B5BEEBF5.png"  transform="matrix(0.4881 0 0 0.4881 469.8518 541.2742)">
+		</image>
+	</g>
+</g>
+<g id="g1048">
+	<g id="g1046">
+		<g id="g1044" class="st0">
+			<g id="g1014">
+				<polygon id="polygon1012" class="st1" points="588,508 588,523.5 245.6,522.3 245.6,506.9 				"/>
+			</g>
+			<g id="g1018">
+				<polygon id="polygon1016" class="st2" points="245.6,506.9 245.6,522.3 188.4,589.7 188.4,574.2 				"/>
+			</g>
+			<g id="g1022">
+				<polygon id="polygon1020" class="st3" points="530.7,575.4 530.7,590.8 188.4,589.7 188.4,574.2 				"/>
+			</g>
+			<g id="g1026">
+				<polygon id="polygon1024" class="st4" points="588,508 588,523.5 530.7,590.8 530.7,575.4 				"/>
+			</g>
+			<g id="g1030">
+				<polygon id="polygon1028" class="st5" points="245.6,506.9 588,508 530.7,575.4 188.4,574.2 				"/>
+			</g>
+			<g id="g1034">
+				<polygon id="polygon1032" class="st1" points="531.2,576.3 531.2,591.8 186.3,590.6 186.3,575.1 				"/>
+			</g>
+			<g id="g1038">
+				<polygon id="polygon1036" class="st2" points="590.1,507.1 590.1,522.5 531.2,591.8 531.2,576.3 				"/>
+			</g>
+			<g id="g1042">
+				<path id="path1040" class="st6" d="M245.1,505.9l344.9,1.2l-58.9,69.2l-344.9-1.2L245.1,505.9z M530.7,575.4l57.2-67.3
+					l-342.4-1.2l-57.2,67.3L530.7,575.4"/>
+			</g>
+		</g>
+	</g>
+</g>
+<polygon id="Water_Tank_Base" class="st7" points="530.5,576.7 188.2,574.9 245.8,507.2 588.1,508.9 " opacity="0"/>
+<g id="g1087">
+	<g id="g1085">
+		<g id="g1083" class="st0">
+			<g id="g1053">
+				<polygon id="polygon1051" class="st8" points="245,321.1 590,322.3 590,507.7 245,506.5 				"/>
+			</g>
+			<g id="g1057">
+				<polygon id="polygon1055" class="st8" points="587.9,323.2 587.9,508.6 245.5,507.5 245.5,322 				"/>
+			</g>
+			<g id="g1061">
+				<polygon id="polygon1059" class="st3" points="245.5,322 587.9,323.2 587.9,508.6 245.5,507.5 				"/>
+			</g>
+			<g id="g1065">
+				<polygon id="polygon1063" class="st9" points="186.2,390.3 245,321.1 245,506.5 186.2,575.7 				"/>
+			</g>
+			<g id="g1069">
+				<polygon id="polygon1067" class="st9" points="245.5,322 245.5,507.5 188.3,574.8 188.3,389.4 				"/>
+			</g>
+			<g id="g1073">
+				<polygon id="polygon1071" class="st4" points="188.3,389.4 245.5,322 245.5,507.5 188.3,574.8 				"/>
+			</g>
+			<g id="g1077">
+				<polygon id="polygon1075" class="st9" points="530.6,390.6 587.9,323.2 587.9,508.6 530.6,576 				"/>
+			</g>
+			<g id="g1081">
+				<polygon id="polygon1079" class="st4" points="587.9,323.2 587.9,508.6 530.6,576 530.6,390.6 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="g1093">
+	<g id="g1091">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="509" height="153" id="image1089" xlink:href="C70F2020.png"  transform="matrix(0.1965 0 0 0.1965 591.0237 495.538)">
+		</image>
+	</g>
+</g>
+<g id="g1099" class="st10">
+	<g id="g1097">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="512" height="128" id="image1095" xlink:href="C70F202F.png"  transform="matrix(0.6774 0 0 0.6774 893.2593 503.8959)">
+		</image>
+	</g>
+</g>
+<g id="g1105">
+	<g id="g1103">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="54" height="511" id="image1101" xlink:href="C52FA6DB.png"  transform="matrix(0.5752 0 0 0.3689 997.9247 217.2723)">
+		</image>
+		<image style="overflow:visible;enable-background:new    ;" width="54" height="511" id="image1101" xlink:href="C52FA6DB.png"  transform="matrix(0.5752 0 0 0.3689 997.9247 385.2723)">
+		</image>
+	</g>
+</g>
+<g id="g1111">
+	<g id="g1109">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="513" height="43" id="image1107" xlink:href="C52FA6DD.png"  transform="matrix(1.4318 0 0 0.6978 278.412 202.8737)">
+		</image>
+	</g>
+</g>
+<g id="g1117">
+	<g id="g1115">
+		
+			<!-- <image style="overflow:visible;enable-background:new    ;" width="209" height="510" id="image1113" xlink:href="C52FA74A.png"  transform="matrix(0.1416 0 0 0.1078 998.6578 521.5599)">
+		</image> -->
+	</g>
+</g>
+<g id="g1123">
+	<g id="g1121">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="212" height="510" id="image1119" xlink:href="C52FA74F.png"  transform="matrix(0.1413 0 0 0.1413 676.5494 510.5391)">
+		</image>
+	</g>
+</g>
+<g transform="scale(1,-1) ">
+	<rect id="Water_1" x="1004" y="-569.8" class="st7" width="19.6" height="160.7" opacity="0"/>
+	<rect id="Water_3" x="1004.7" y="-410.1" class="st7" width="19.6" height="175.2" opacity="0"/>
+</g>
+<rect id="Water_9" x="681.6" y="521.8" class="st7" width="19.6" height="0"/>
+<rect id="Water_4" x="936" y="208.2" class="st7" width="77.5" height="19.6" opacity="0"/>
+<rect id="Water_8" x="594.6" y="501" class="st7" width="0" height="19.6"/>
+<circle id="Tank_Empty_Corner" class="st11" cx="687.8" cy="514.5" r="17.4"/>
+<rect id="Water_6" x="301" y="208.6" class="st7" width="617" height="19.6" opacity="0"/>
+<circle id="Corner_Top_Right" class="st11" cx="1013.5" cy="221.9" r="17.4"/>
+<ellipse id="Suction_Pipe_Opening" class="st7" cx="1013.8" cy="571.7" rx="9.8" ry="3"/>
+<ellipse id="Tank_Empty_End" class="st7" cx="691.5" cy="578.5" rx="9.8" ry="3"/>
+<polygon id="Tank_Water_Back" class="st7" points="245.1,508.1 587.9,508.1 587.9,508.1 245.1,508.1"/>
+<g id="g1138">
+	<polygon id="polygon1136" class="st1" points="590.1,322.1 590.1,507.5 531.2,576.7 531.2,391.3 	"/>
+</g>
+<g id="Tank_Empty_Control">
+	<g id="g1144">
+		<g id="g1142">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="412" height="508" id="image1140" xlink:href="C52FA7C7.png"  transform="matrix(9.887402e-02 0 0 9.887402e-02 557.2469 485.3879)">
+			</image>
+		</g>
+	</g>
+	<g id="g1150">
+		<g id="g1148">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="168" height="503" id="image1146" xlink:href="C52FA7CF.png"  transform="matrix(3.819093e-02 0 0 3.819093e-02 574.4069 471.5281)">
+			</image>
+		</g>
+	</g>
+	<g id="g1156">
+		<g id="g1154">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="503" height="188" id="image1152" xlink:href="C52FA7C1.png"  transform="matrix(8.546718e-02 0 0 8.546718e-02 556.1201 465.6205)">
+			</image>
+		</g>
+	</g>
+</g>
+<g id="Tank_Empty_Control_00000000920067168395717810000001351023711700812424_">
+	<g id="g1163">
+		<g id="g1161">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="412" height="508" id="image1159" xlink:href="C52FA7C7.png"  transform="matrix(9.887402e-02 0 0 9.887402e-02 909.3726 193.0862)">
+			</image>
+		</g>
+	</g>
+	<g id="g1169">
+		<g id="g1167">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="168" height="503" id="image1165" xlink:href="C52FA7CF.png"  transform="matrix(3.819093e-02 0 0 3.819093e-02 926.5324 179.2262)">
+			</image>
+		</g>
+	</g>
+	<g id="g1175">
+		<g id="g1173">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="503" height="188" id="image1171" xlink:href="C52FA7C1.png"  transform="matrix(8.546718e-02 0 0 8.546718e-02 908.2454 173.3188)">
+			</image>
+		</g>
+	</g>
+</g>
+<polygon id="Tank_Water_Left" class="st7"   points="245.2,506.9 187.2,577.5 187.2,577.5 244.8,506.9 "/>
+<g id="g1183">
+	<g id="g1181">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="99" height="512" id="image1179" xlink:href="C70F2021.png"  transform="matrix(0.3085 0 0 0.3085 267.6958 219.7682)">
+		</image>
+	</g>
+</g>
+<rect id="Water_7" x="273.2" y="230.4" class="st7" width="19.6" height="0"/>
+<g transform="scale(1,-1) translate(0,-200)">
+	<rect id="Tank_Water_Front" x="187.2" y="-377.5" class="st12" width="344.8" height="0" opacity="0"/>
+</g>
+<circle id="Corner_Top_Left" class="st11" cx="287" cy="221" r="17.4"/>
+<line id="line1188" class="st13" x1="531.8" y1="392.3" x2="187.4" y2="391.3"/>
+<g id="g1198">
+	<g id="g1194">
+		<g id="g1192">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="513" height="238" id="image1190" xlink:href="C52FA7C2.png"  transform="matrix(0.4361 0 0 0.4361 22.5491 211.7993)">
+			</image>
+		</g>
+	</g>
+	<path id="path1196" class="st14" d="M208.4,301.4H55c-10.2,0-18.4-8.2-18.4-18.4v-29.5c0-10.2,8.2-18.4,18.4-18.4h153.4
+		c10.2,0,18.4,8.2,18.4,18.4V283C226.8,293.2,218.6,301.4,208.4,301.4z"/>
+</g>
+<g id="g1208">
+	<g id="g1204">
+		<g id="g1202">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="513" height="284" id="image1200" xlink:href="C52FA7C3.png"  transform="matrix(0.2182 0 0 0.2764 1055.889 131.8037)">
+			</image>
+		</g>
+	</g>
+	<path id="path1206" class="st15" d="M1137,203.2h-55.4c-8.4,0-15.2-8.6-15.2-19.3v-18.4c0-10.6,6.8-19.3,15.2-19.3h55.4
+		c8.4,0,15.2,8.6,15.2,19.3v18.4C1152.2,194.5,1145.4,203.2,1137,203.2z"/>
+</g>
+<text id="text1210" transform="matrix(0.945 0 0 1 44.3584 275.4863)" class="st16 st17">00</text>
+<text id="valve-positioning-text" transform="matrix(1.0432 0 0 1 1095.6201 190.4902)" class="st16 st18">0</text>
+<text id="text1214" transform="matrix(1.0432 0 0 1 1036.8877 74.6123)" class="st19 st20 st21"> </text>
+<text id="text1220" transform="matrix(1.0432 0 0 1 644.5264 393.6006)" class="st19 st20 st21"> </text>
+<text id="text1228" transform="matrix(1.0397 0 0 1 89.9434 197.7368)" class="st19 st20">Timer</text>
+<text id="timer-sec1" transform="matrix(0.945 0 0 1 111.4229 275.1348)" class="st16 st17">00</text>
+<text id="timer-ms1" transform="matrix(0.945 0 0 1 175.8916 275.9883)" class="st16 st17">00</text>
+<text id="text1234" transform="matrix(0.8527 0 0 1 53.3506 293.6123)" class="st16 st22">min</text>
+<text id="text1236" transform="matrix(0.8527 0 0 1 121.7041 292.7588)" class="st16 st22">sec</text>
+<text id="text1238" transform="matrix(0.8527 0 0 1 188.915 292.7588)" class="st16 st22">ms</text>
+<text id="text1240" transform="matrix(0.945 0 0 1 96.8105 271.7178)" class="st16 st23">:</text>
+<text id="text1242" transform="matrix(0.945 0 0 1 160.4326 271.3887)" class="st16 st23">:</text>
+<path id="path1244" class="st24" d="M56.1,481.5"/>
+<path id="path1246" class="st24" d="M55.8,492.4"/>
+<path id="path1248" class="st24" d="M55.8,503.7"/>
+<path id="path1250" class="st24" d="M55.8,515.4"/>
+<g id="g1308">
+	<line id="line1252" class="st24" x1="125.4" y1="532.9" x2="195.7" y2="532.9"/>
+	<line id="line1254" class="st24" x1="125.4" y1="543.5" x2="195.7" y2="543.5"/>
+	<line id="line1256" class="st24" x1="125.4" y1="555.2" x2="195.7" y2="555.2"/>
+	<line id="line1258" class="st24" x1="125.4" y1="566.9" x2="195.7" y2="566.9"/>
+	<polyline id="polyline1260" class="st24" points="195.4,577.6 125.6,577.6 125.6,451.3 	"/>
+	<path id="path1262" class="st24" d="M195.4,451.3"/>
+	<line id="line1264" class="st24" x1="125.4" y1="467.5" x2="195.7" y2="467.5"/>
+	<path id="path1266" class="st24" d="M196,466.6"/>
+	<line id="line1268" class="st24" x1="125.4" y1="478.3" x2="195.7" y2="478.3"/>
+	<path id="path1270" class="st24" d="M195.7,477.6"/>
+	<line id="line1272" class="st24" x1="125.4" y1="489.3" x2="195.7" y2="489.3"/>
+	<path id="path1274" class="st24" d="M195.7,488.8"/>
+	<line id="line1276" class="st24" x1="125.4" y1="500.9" x2="195.7" y2="500.9"/>
+	<path id="path1278" class="st24" d="M195.7,500.5"/>
+	<line id="line1280" class="st24" x1="125.4" y1="511.6" x2="195.7" y2="511.6"/>
+	<line id="line1282" class="st24" x1="125.4" y1="522.2" x2="195.7" y2="522.2"/>
+	<rect id="rect1284" x="122.9" y="447.5" class="st25" width="52.9" height="131.7"/>
+	<text id="text1286" transform="matrix(1.2422 0 0 1 157.3359 571.1006)" class="st16 st26">1</text>
+	<text id="text1288" transform="matrix(1.2422 0 0 1 157.4961 582.2939)" class="st16 st26">0</text>
+	<text id="text1290" transform="matrix(1.2422 0 0 1 157.3359 559.2266)" class="st16 st26">2</text>
+	<text id="text1292" transform="matrix(1.2422 0 0 1 157.3359 547.5635)" class="st16 st26">3</text>
+	<text id="text1294" transform="matrix(1.2422 0 0 1 157.3359 536.084)" class="st16 st26">4</text>
+	<text id="text1296" transform="matrix(1.2422 0 0 1 157.3359 525.9385)" class="st16 st26">5</text>
+	<text id="text1298" transform="matrix(1.2422 0 0 1 157.3359 515.3242)" class="st16 st26">6</text>
+	<text id="text1300" transform="matrix(1.2422 0 0 1 157.3359 505.1426)" class="st16 st26">7</text>
+	<text id="text1302" transform="matrix(1.2422 0 0 1 157.3359 493.5322)" class="st16 st26">8</text>
+	<text id="text1304" transform="matrix(1.2422 0 0 1 157.3359 482.374)" class="st16 st26">9</text>
+	<text id="text1306" transform="matrix(1.2422 0 0 1 153.3359 471.2979)" class="st16 st26">10</text>
+</g>
+<g id="g1314">
+	<rect id="rect1310" x="127.7" y="577.7" width="15.8" height="3.2"/>
+	<polyline id="polyline1312" points="143.5,573.3 151.6,579.3 143.5,585.3 	"/>
+</g>
+<g id="g1320">
+	
+		<rect id="rect1316" x="608.9" y="455.6" transform="matrix(0.4766 -0.8791 0.8791 0.4766 -76.1368 790.0131)" width="33.1" height="6.7"/>
+	<polyline id="polyline1318" points="628.6,479.5 609.5,488.4 606.5,467.5 	"/>
+</g>
+<g id="g1326">
+	
+		<rect id="rect1322" x="962.3" y="138.5" transform="matrix(0.4829 -0.8757 0.8757 0.4829 381.9135 930.5342)" width="33.1" height="6.7"/>
+	<polyline id="polyline1324" points="981.8,162.5 962.6,171.3 959.8,150.4 	"/>
+</g>
+<g id="g1332">
+	<rect id="rect1328" x="1012.9" y="356.8" class="st27" width="3.2" height="15.8"/>
+	<polyline id="polyline1330" class="st27" points="1008.5,356.8 1014.5,348.6 1020.5,356.8 	"/>
+</g>
+<g id="g1338">
+	<rect id="rect1334" x="1012.9" y="273.8" class="st27" width="3.2" height="15.8"/>
+	<polyline id="polyline1336" class="st27" points="1008.5,273.8 1014.5,265.6 1020.5,273.8 	"/>
+</g>
+<g id="g1344">
+	<rect id="rect1340" x="557" y="216.5" class="st27" width="15.8" height="3.2"/>
+	<polyline id="polyline1342" class="st27" points="557.1,224.1 548.9,218.1 557.1,212 	"/>
+</g>
+<g id="g1350">
+	<rect id="rect1346" x="655.4" y="216.5" class="st27" width="15.8" height="3.2"/>
+	<polyline id="polyline1348" class="st27" points="655.5,224.1 647.3,218.1 655.5,212 	"/>
+</g>
+<g id="g1356">
+	<rect id="rect1352" x="765.1" y="216.5" class="st27" width="15.8" height="3.2"/>
+	<polyline id="polyline1354" class="st27" points="765.2,224.1 757,218.1 765.2,212 	"/>
+</g>
+<g id="g1362">
+	<rect id="rect1358" x="866.4" y="216.1" class="st27" width="15.8" height="3.2"/>
+	<polyline id="polyline1360" class="st27" points="866.4,223.7 858.2,217.7 866.4,211.7 	"/>
+</g>
+<g id="g1368">
+	<rect id="rect1364" x="468" y="216.5" class="st27" width="15.8" height="3.2"/>
+	<polyline id="polyline1366" class="st27" points="468.1,224.1 459.9,218.1 468.1,212 	"/>
+</g>
+<g id="g1374">
+	<rect id="rect1370" x="379" y="216.5" class="st27" width="15.8" height="3.2"/>
+	<polyline id="polyline1372" class="st27" points="379.1,224.1 370.9,218.1 379.1,212 	"/>
+</g>
+<g id="g1380">
+	<rect id="rect1376" x="281.5" y="270.8" class="st27" width="3.2" height="15.8"/>
+	<polyline id="polyline1378" class="st27" points="289,286.5 283,294.7 277,286.5 	"/>
+</g>
+<!-- <rect id="rect1382" x="1004.4" y="421.7" class="st28" width="19.2" height="76.3"/> -->
+<!-- <polygon id="polygon1384" class="st29" points="998.4,484 991.1,480.1 991.1,440.3 998.4,436.4 "/> -->
+<!-- <path id="path1386" class="st30" d="M1023.6,498L1023.6,498v-76.3l0,0c3.6,0,6.4,2.9,6.4,6.4v63.5 -->
+	<!-- C1030.1,495.1,1027.2,498,1023.6,498z"/> -->
+<!-- <path id="path1388" class="st30" d="M1004.4,498L1004.4,498c-3.6,0-6.4-2.9-6.4-6.4v-63.5c0-3.6,2.9-6.4,6.4-6.4l0,0V498z"/> -->
+<!-- <rect id="rect1390" x="1006.3" y="409.5" class="st31" width="15.3" height="12.3"/> -->
+<!-- <rect id="rect1392" x="1006.3" y="497.9" class="st31" width="15.3" height="12.3"/> -->
+<rect id="rect1394" x="997.1" y="395.8"  width="32.9" height="17" fill="red"/>
+<rect id="rect1396" x="1030.1" y="435.9" class="st32" width="17" height="47.8"/>
+<rect id="rect1398" x="997.1" y="508.3"  width="32.9" height="17" fill="red"/>
+<rect id="rect1404" x="1095.4" y="532.3" class="st32" width="94.4" height="7.2"/>
+<path id="path1406" class="st29" d="M1189.7,532.3l-94.3-0.1c3.3-0.2,14.6-1.1,24.4-10.1c7.5-6.9,10.1-15,11.1-18.5c8,0,16,0,24,0
+	c0.8,3.6,3,10.6,9,16.9C1173.8,531.1,1186.6,532.1,1189.7,532.3z"/>
+<g>
+	<g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="105" height="90" xlink:href="1D48A994.png"  transform="matrix(0.9898 0 0 0.9986 1044.2778 414.9588)">
+		</image>
+	</g>
+</g>
+<path id="motor_water" class="st7" d="M1088.2,497.1h-10.4c-15,0-27.2-12.2-27.2-27.2V449c0-15,12.2-27.2,27.2-27.2h10.4V497.1z" opacity="0"/>
+<rect id="moving-motor-water" x="1088.2" y="421.9" class="st7" width="0" height="75.3"/>
+<g id="electric-meter">
+	<g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="445" height="512" xlink:href="91245883.png"  transform="matrix(0.3848 0 0 0.3848 1292.6523 316.7915)">
+		</image>
+	</g>
+</g>
+<g>
+	<g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="499" height="473" xlink:href="91245885.png"  transform="matrix(4.836329e-02 0 0 4.836329e-02 1337.2855 476.1621)">
+		</image>
+	</g>
+</g>
+<g>
+	<g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="511" height="142" xlink:href="91245887.png"  transform="matrix(0.3757 0 0 0.3757 1159.4587 486.6403)">
+		</image>
+	</g>
+</g>
+<g>
+	<g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="495" height="480" xlink:href="91245884.png"  transform="matrix(4.822601e-02 0 0 4.822601e-02 1406.2614 473.3471)">
+		</image>
+	</g>
+</g>
+<g>
+	<g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="513" height="159" xlink:href="9124588C.png"  transform="matrix(0.5284 0 0 0.5284 1151.1753 482.5394)">
+		</image>
+	</g>
+</g>
+<g id="pump-piston" >
+	<g>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" x="1088.2" y="423" width="60" height="75.3" xlink:href="1D48A993.png"  >
+			</image>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<image style="overflow:visible;enable-background:new    ;" x="1079" y="422" width="28" height="75.3" xlink:href="1D48A99C.png"  >
+			</image>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		
+			<image style="overflow:visible;enable-background:new    ;" width="387" height="512" xlink:href="1D48A99F.png"  transform="matrix(0.1736 0 0 0.1741 1147.0531 414.9359)">
+		</image>
+	</g>
+</g>
+<g>
+	<rect id="rect1402" x="1168.1" y="429.1" class="st32" width="29.1" height="7.4"/>
+	<rect id="rect1408" x="1168.1" y="443" class="st32" width="29.1" height="7.4"/>
+	<rect id="rect1410" x="1168.1" y="457.1" class="st32" width="29.1" height="7.4"/>
+	<rect id="rect1412" x="1168.1" y="470.5" class="st32" width="29.1" height="7.4"/>
+	<rect id="rect1414" x="1168.1" y="483.9" class="st32" width="29.1" height="7.4"/>
+</g>
+<text transform="matrix(1 0 0 1 827.6357 381.9785)" class="st19 st33">Pressure</text>
+<text transform="matrix(1 0 0 1 837.0357 405.9785)" class="st19 st33">Gauge</text>
+<text transform="matrix(1 0 0 1 1087.4192 87.4621)" class="st19 st33">Valve</text>
+<text transform="matrix(1 0 0 1 1064.1191 111.4621)" class="st19 st33">Positioning</text>
+<text transform="matrix(1 0 0 1 798.2094 538.7725)" class="st19 st33">Vaccum</text>
+<text transform="matrix(1 0 0 1 805.4094 562.7725)" class="st19 st33">Gauge</text>
+<polygon class="st34" points="872.3,530.6 876.9,530.6 876.9,530.6 "/>
+<text transform="matrix(1 0 0 1 649.8527 436.5001)" class="st19 st33">Gate</text>
+<text transform="matrix(1 0 0 1 645.9527 460.5001)" class="st19 st33">Valve</text>
+<g>
+	<g>
+		<g>
+			<g>
+				
+					<image style="overflow:visible;enable-background:new    ;" width="512" height="506" xlink:href="912458E8.png"  transform="matrix(0.231 0 0 0.231 1323.8936 339.6774)">
+				</image>
+			</g>
+		</g>
+		<g>
+			<rect x="1381" y="412.2" class="st35" width="3.6" height="17.6"/>
+			<polyline class="st35" points="1376.1,429.8 1382.8,439 1389.5,429.8 			"/>
+		</g>
+	</g>
+	<g id="part2">
+		<g id="part3">
+			<g>
+				<line class="st36" x1="1383" y1="339.6" x2="1383" y2="351.1"/>
+				<line class="st36" x1="1365.4" y1="342.4" x2="1368.7" y2="353.5"/>
+				<line class="st36" x1="1350.2" y1="350.7" x2="1356.4" y2="360.1"/>
+				<line class="st36" x1="1338.3" y1="363.5" x2="1346.7" y2="370.4"/>
+				<line class="st36" x1="1330.3" y1="379.5" x2="1340.5" y2="383.3"/>
+				<line class="st36" x1="1327.5" y1="398.1" x2="1338.3" y2="398.1"/>
+				<line class="st36" x1="1330.3" y1="416.5" x2="1340.5" y2="412.8"/>
+				<line class="st36" x1="1338.3" y1="432.7" x2="1346.9" y2="425.6"/>
+				<line class="st36" x1="1350.2" y1="445.2" x2="1356.4" y2="435.6"/>
+				<line class="st36" x1="1365.3" y1="453.6" x2="1368.7" y2="442.6"/>
+				<line class="st36" x1="1383" y1="456.6" x2="1383" y2="444.7"/>
+				<line class="st36" x1="1400.2" y1="453.6" x2="1396.9" y2="442.4"/>
+				<line class="st36" x1="1415.6" y1="445.4" x2="1409.3" y2="435.6"/>
+				<line class="st36" x1="1427.6" y1="432.7" x2="1418.8" y2="425.6"/>
+				<line class="st36" x1="1435.4" y1="416.5" x2="1425.1" y2="412.8"/>
+				<line class="st36" x1="1438.4" y1="398.1" x2="1427.4" y2="398.1"/>
+			</g>
+			<g>
+				<line class="st36" x1="1383" y1="339.6" x2="1383" y2="351.1"/>
+				<line class="st36" x1="1397.4" y1="341.6" x2="1394.8" y2="352.7"/>
+				<line class="st36" x1="1410.8" y1="347.4" x2="1405.4" y2="357.5"/>
+				<line class="st36" x1="1421.9" y1="356.6" x2="1414.5" y2="365"/>
+				<line class="st36" x1="1430.7" y1="368.3" x2="1421.3" y2="374.5"/>
+				<line class="st36" x1="1436.3" y1="382.3" x2="1425.8" y2="385.6"/>
+				<line class="st36" x1="1438.4" y1="398.1" x2="1427.4" y2="398.1"/>
+			</g>
+		</g>
+		<g>
+			<g id="part1">
+				<path class="st37" d="M1383.1,339.7c-32.4,0-58.7,26.2-58.7,58.7c0,8.7,1.9,16.9,5.3,24.3h106.7c3.4-7.4,5.3-15.6,5.3-24.3
+					C1441.7,365.9,1415.5,339.7,1383.1,339.7z"/>
+			</g>
+		</g>
+		<path class="st14" d="M1406,416.3h-46.5c-3.1,0-5.5-3.8-5.5-8.5v-13.6c0-4.7,2.5-8.5,5.5-8.5h46.5c3.1,0,5.5,3.8,5.5,8.5v13.6
+			C1411.6,412.6,1409.1,416.3,1406,416.3z"/>
+		<text transform="matrix(1.0397 0 0 1 1353.167 363.418)" class="st25 st19 st38">Number of </text>
+		<text transform="matrix(1.0397 0 0 1 1354.582 378.2178)" class="st25 st19 st38">Revolution</text>
+		<text id="electric-meter-text" transform="matrix(0.945 0 0 1 1366.999 412.0439)" class="st16 st39">00</text>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 1314.1858 298.6802)" class="st19 st33">Electric Meter</text>
+<g id="g1198_00000005975921635966515070000016433283986858487716_">
+	<g id="g1194_00000139293397102378520470000003928869663430079894_">
+		<g id="g1192_00000132771208435822135080000011224180582284369826_">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="513" height="238" id="image1190_00000038388124474413576990000017769557697251894448_" xlink:href="C52FA7C2.png"  transform="matrix(0.4361 0 0 0.4361 1290.489 597.5123)">
+			</image>
+		</g>
+	</g>
+	<path id="path1196_00000050639566054310557810000014193450928840943503_" class="st14" d="M1476.3,687.1h-153.4
+		c-10.2,0-18.4-8.2-18.4-18.4v-29.5c0-10.2,8.2-18.4,18.4-18.4h153.4c10.2,0,18.4,8.2,18.4,18.4v29.5
+		C1494.7,678.9,1486.5,687.1,1476.3,687.1z"/>
+</g>
+<text id="text1210_00000161632280713524486200000017786763788014894493_" transform="matrix(0.945 0 0 1 1312.2979 661.1992)" class="st16 st17">00</text>
+<text id="text1228_00000006679813453948362670000003978736053523240596_" transform="matrix(0.9649 0 0 1 1347.1982 583.8652)" class="st19 st20">Timer 2</text>
+<text id="timer-sec2" transform="matrix(0.945 0 0 1 1379.3623 660.8477)" class="st16 st17">00</text>
+<text id="timer-ms2" transform="matrix(0.945 0 0 1 1443.8311 661.7012)" class="st16 st17">00</text>
+<text id="text1234_00000098181023844725839700000012030026364037904016_" transform="matrix(0.8527 0 0 1 1321.291 679.3252)" class="st16 st22">min</text>
+<text id="text1236_00000049224333358371506140000004011322699762264453_" transform="matrix(0.8527 0 0 1 1389.6445 678.4717)" class="st16 st22">sec</text>
+<text id="text1238_00000021083878436333936240000013932669586844762284_" transform="matrix(0.8527 0 0 1 1456.8555 678.4717)" class="st16 st22">ms</text>
+<text id="text1240_00000107581706288617700150000006829124536221878416_" transform="matrix(0.945 0 0 1 1364.75 657.4307)" class="st16 st23">:</text>
+<text id="text1242_00000155845042055403504080000014749208951756134028_" transform="matrix(0.945 0 0 1 1428.3721 657.1016)" class="st16 st23">:</text>
+<g id="g1208_00000097467730622777096580000016288998849380616344_">
+	<g id="g1204_00000137843934226710146680000014087629598587083711_">
+		<g id="g1202_00000059310486926350909760000010721900450878491529_">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="513" height="284" id="image1200_00000181778481671457461990000014937989727363940256_" xlink:href="C52FA7C3.png"  transform="matrix(0.2394 0 0 0.3033 772.6687 430.1898)">
+			</image>
+		</g>
+	</g>
+	<path id="path1206_00000176761811108607902820000010290500736060309436_" class="st15" d="M861.7,508.5h-60.8
+		c-9.2,0-16.7-9.4-16.7-21.2v-20.2c0-11.6,7.5-21.2,16.7-21.2h60.8c9.2,0,16.7,9.4,16.7,21.2v20.2
+		C878.3,499,870.9,508.5,861.7,508.5z"/>
+</g>
+<text id="guage-reading-text" transform="matrix(0.956 0 0 1 815.0957 472.0952)" class="st40 st41">0.00</text>
+<text transform="matrix(0.956 0 0 1 797.792 492.9951)" class="st40 st41">kg/cm^2</text>
+<text id="text1220_00000173118975049742998330000007243712998940971923_" transform="matrix(1.0432 0 0 1 754.2251 529.938)" class="st19 st42 st43"> </text>
+<g id="g1208_00000096774580886745156270000017171467019756301958_">
+	<g id="g1204_00000128470169272273565850000013287780083737743273_">
+		<g id="g1202_00000087414066768457923420000004684880542558589850_">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="513" height="284" id="image1200_00000154390731345193328540000001254225014977511809_" xlink:href="C52FA7C3.png"  transform="matrix(0.2394 0 0 0.3033 681.8 286.6497)">
+			</image>
+		</g>
+	</g>
+	<path id="path1206_00000080171404294455138650000016169182711625155996_" class="st15" d="M770.8,365H710
+		c-9.2,0-16.7-9.4-16.7-21.2v-20.2c0-11.6,7.5-21.2,16.7-21.2h60.8c9.2,0,16.7,9.4,16.7,21.2v20.2C787.5,355.4,780,365,770.8,365z"
+		/>
+</g>
+<text id="pressure-guage-reading-text" transform="matrix(0.956 0 0 1 724.2275 328.5552)" class="st40 st41">0.00</text>
+<text transform="matrix(0.956 0 0 1 706.9233 349.4551)" class="st40 st41">kg/cm^2</text>
+<g id="g1208_00000103966399180994694290000000675424337348867473_">
+	<g id="g1204_00000116949600516428085640000000929549991396692608_">
+		<g id="g1202_00000182493514935083002500000011522306741486082185_">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="513" height="284" id="image1200_00000080912965419708760800000017571180070689576891_" xlink:href="C52FA7C3.png"  transform="matrix(0.2182 0 0 0.2273 1105.3579 339.1283)">
+			</image>
+		</g>
+	</g>
+	<path id="path1206_00000032633031564021228480000003944300437794989197_" class="st15" d="M1186.5,397.8h-55.4
+		c-8.4,0-15.2-7.1-15.2-15.9v-15.1c0-8.7,6.8-15.9,15.2-15.9h55.4c8.4,0,15.2,7.1,15.2,15.9V382
+		C1201.7,390.7,1194.9,397.8,1186.5,397.8z"/>
+</g>
+<text id="rpm-text" transform="matrix(1.0872 0 0 1 1120.8945 389.3633)" class="st16 st18">0</text>
+<text transform="matrix(1 0 0 1 1137.4872 324.6186)" class="st19 st33">RPM</text>
+<g>
+	<g>
+		<g>
+			<g>
+				
+					<image style="overflow:visible;" width="512" height="94" xlink:href="91245886.png"  transform="matrix(0.1074 0 0 0.1074 962.4101 316.6637)">
+				</image>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<image style="overflow:visible;" width="293" height="512" xlink:href="9124588A.png"  transform="matrix(5.468750e-02 0 0 5.468750e-02 951.0341 307.7126)">
+				</image>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<image style="overflow:visible;" width="293" height="512" xlink:href="9124588B.png"  transform="matrix(5.468750e-02 0 0 5.468750e-02 946.1509 307.7126)">
+				</image>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<image style="overflow:visible;" width="512" height="94" xlink:href="9124588D.png"  transform="matrix(0.1074 0 0 0.1074 896.1245 316.6637)">
+				</image>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				
+					<image style="overflow:visible;" width="512" height="512" xlink:href="912458E9.png"  transform="matrix(0.1484 0 0 0.1484 831.3443 283.7493)">
+				</image>
+			</g>
+		</g>
+		<g>
+			<g id="g2381">
+				<line id="line2367" class="st44" x1="868.6" y1="290.3" x2="868.6" y2="296.7"/>
+				<line id="line2369" class="st44" x1="859.9" y1="291.4" x2="861.5" y2="297.5"/>
+				<line id="line2371" class="st44" x1="852" y1="294.7" x2="855.1" y2="300.2"/>
+				<line id="line2373" class="st44" x1="845.2" y1="299.6" x2="849.7" y2="304.3"/>
+				<line id="line2375" class="st44" x1="840" y1="306.2" x2="845.5" y2="309.5"/>
+				<line id="line2377" class="st44" x1="836.6" y1="313.9" x2="842.8" y2="315.7"/>
+				<line id="line2379" class="st44" x1="835.4" y1="322.6" x2="841.9" y2="322.6"/>
+			</g>
+			<g>
+				<g id="g2365">
+					<line id="line2333" class="st44" x1="868.6" y1="290.3" x2="868.6" y2="296.7"/>
+					<line id="line2335" class="st44" x1="879" y1="291.9" x2="877.2" y2="297.9"/>
+					<line id="line2337" class="st44" x1="888.3" y1="296.5" x2="884.5" y2="301.6"/>
+					<line id="line2339" class="st44" x1="895.4" y1="303.5" x2="890.3" y2="307.4"/>
+					<line id="line2341" class="st44" x1="900.2" y1="312.3" x2="894.1" y2="314.4"/>
+					<line id="line2343" class="st44" x1="901.9" y1="322.6" x2="895.4" y2="322.6"/>
+					<line id="line2345" class="st44" x1="900.2" y1="332.8" x2="894.1" y2="330.7"/>
+					<line id="line2347" class="st44" x1="895.4" y1="341.7" x2="890.3" y2="337.8"/>
+					<line id="line2349" class="st44" x1="888.3" y1="348.6" x2="884.5" y2="343.4"/>
+					<line id="line2351" class="st44" x1="879.1" y1="353.2" x2="877.2" y2="347.1"/>
+					<line id="line2353" class="st44" x1="868.6" y1="354.9" x2="868.6" y2="348.3"/>
+					<line id="line2355" class="st44" x1="858.2" y1="353.2" x2="860.2" y2="347"/>
+					<line id="line2357" class="st44" x1="849.1" y1="348.7" x2="852.8" y2="343.4"/>
+					<line id="line2359" class="st44" x1="841.8" y1="341.7" x2="847" y2="337.8"/>
+					<line id="line2361" class="st44" x1="837.1" y1="332.8" x2="843.3" y2="330.7"/>
+					<line id="line2363" class="st44" x1="835.4" y1="322.6" x2="841.9" y2="322.6"/>
+				</g>
+				<polygon id="polygon2383" class="st45" points="878,337.4 884.9,338.9 883.2,332 881.4,333.9 869.3,321.7 867.5,323.6 
+					879.5,335.7 				"/>
+				<circle id="circle2385" class="st46" cx="868.4" cy="322.6" r="3.4"/>
+				<g>
+					<g>
+						
+							<image style="overflow:visible;" width="512" height="512" xlink:href="912458EB.png"  transform="matrix(0.1562 0 0 0.1562 829.3445 281.7492)">
+						</image>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<g>
+				
+					<image style="overflow:visible;" width="512" height="67" xlink:href="912458EE.png"  transform="matrix(0.1055 0 0 0.1055 960.6782 547.6912)">
+				</image>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<image style="overflow:visible;" width="351" height="512" xlink:href="912458EF.png"  transform="matrix(3.710938e-02 0 0 3.710938e-02 960.0733 541.7244)">
+				</image>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<image style="overflow:visible;" width="351" height="512" xlink:href="912458EA.png"  transform="matrix(3.710938e-02 0 0 3.710938e-02 956.7363 541.7244)">
+				</image>
+			</g>
+		</g>
+		<g>
+			<g>
+				
+					<image style="overflow:visible;" width="512" height="67" xlink:href="912458F5.png"  transform="matrix(0.1055 0 0 0.1055 915.3798 547.6912)">
+				</image>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g>
+				
+					<image style="overflow:visible;" width="512" height="512" xlink:href="912458F6.png"  transform="matrix(0.1016 0 0 0.1016 879.2855 525.2495)">
+				</image>
+			</g>
+		</g>
+		<g>
+			<g id="g2381_00000021107516688720109270000011201387506601247913_">
+				
+					<line id="line2367_00000101073755276936800450000003378859967888453033_" class="st44" x1="904.8" y1="529.8" x2="904.8" y2="534.1"/>
+				
+					<line id="line2369_00000003063971440837949910000002640962551371054769_" class="st44" x1="898.8" y1="530.5" x2="899.9" y2="534.7"/>
+				
+					<line id="line2371_00000106853523007864223540000002624895969401517244_" class="st44" x1="893.4" y1="532.7" x2="895.6" y2="536.5"/>
+				
+					<line id="line2373_00000003092031419906761730000004543131439231809457_" class="st44" x1="888.8" y1="536.1" x2="891.8" y2="539.3"/>
+				
+					<line id="line2375_00000149370001749688968590000004285284467820178049_" class="st44" x1="885.2" y1="540.6" x2="889" y2="542.9"/>
+				
+					<line id="line2377_00000031902662793734947460000001253213714804310161_" class="st44" x1="882.9" y1="545.9" x2="887.2" y2="547.1"/>
+				
+					<line id="line2379_00000139276237113182935740000014178313389854645434_" class="st44" x1="882.1" y1="551.9" x2="886.6" y2="551.9"/>
+			</g>
+			<g>
+				<g id="g2365_00000007425077751501703670000017654223020402642358_">
+					
+						<line id="line2333_00000067238016597075572790000002328386446050229907_" class="st44" x1="904.8" y1="529.8" x2="904.8" y2="534.1"/>
+					
+						<line id="line2335_00000129884660293081503970000006273400269286621099_" class="st44" x1="911.9" y1="530.8" x2="910.6" y2="535"/>
+					
+						<line id="line2337_00000094603989295007650170000001021999469951867530_" class="st44" x1="918.2" y1="534" x2="915.6" y2="537.5"/>
+					
+						<line id="line2339_00000169556812640500828140000011039675280947657913_" class="st44" x1="923.1" y1="538.8" x2="919.6" y2="541.4"/>
+					
+						<line id="line2341_00000047740832063129338470000000937036200448112281_" class="st44" x1="926.4" y1="544.8" x2="922.2" y2="546.2"/>
+					
+						<line id="line2343_00000177464881098223205440000014876417592876122271_" class="st44" x1="927.5" y1="551.9" x2="923.1" y2="551.9"/>
+					
+						<line id="line2345_00000058572040612773488300000016665893960730931896_" class="st44" x1="926.4" y1="558.8" x2="922.2" y2="557.4"/>
+					
+						<line id="line2347_00000173154446967478537750000008762839067712610955_" class="st44" x1="923.1" y1="564.9" x2="919.6" y2="562.2"/>
+					
+						<line id="line2349_00000030484290253477466080000008459402781847356035_" class="st44" x1="918.2" y1="569.6" x2="915.6" y2="566"/>
+					
+						<line id="line2351_00000131365113889412852040000015930275221287015353_" class="st44" x1="912" y1="572.7" x2="910.6" y2="568.6"/>
+					
+						<line id="line2353_00000061473403829719187430000007901974860231555200_" class="st44" x1="904.8" y1="573.9" x2="904.8" y2="569.4"/>
+					
+						<line id="line2355_00000179607350750867137970000002732260300259542418_" class="st44" x1="897.7" y1="572.7" x2="899" y2="568.5"/>
+					
+						<line id="line2357_00000182488730944616577680000013824588914003120804_" class="st44" x1="891.4" y1="569.7" x2="893.9" y2="566"/>
+					
+						<line id="line2359_00000091718850093600524440000013362352047837328772_" class="st44" x1="886.5" y1="564.9" x2="890" y2="562.2"/>
+					
+						<line id="line2361_00000091707673416478785270000007332438406809968551_" class="st44" x1="883.2" y1="558.8" x2="887.5" y2="557.4"/>
+					
+						<line id="line2363_00000100344674355669107540000013083540580118906288_" class="st44" x1="882.1" y1="551.9" x2="886.6" y2="551.9"/>
+				</g>
+				<polygon id="polygon2383_00000011011336518586712160000003020797379459377282_" class="st45" points="911.2,562 915.9,563 
+					914.8,558.2 913.5,559.5 905.3,551.2 904,552.5 912.3,560.8 				"/>
+				<circle id="circle2385_00000169517456416308948200000013119641554093753492_" class="st46" cx="904.7" cy="551.9" r="2.3"/>
+				<g>
+					<g>
+						
+							<image style="overflow:visible;" width="512" height="512" xlink:href="912458F7.png"  transform="matrix(0.1094 0 0 0.1094 877.2856 523.2495)">
+						</image>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<path id="circle2822" class="st11" d="M1012.6,304.9c-7.9,0-14.4,6.4-14.4,14.4l0,0c0,7.9,6.4,14.4,14.4,14.4
+	c7.9,0,14.4-6.4,14.4-14.4S1020.6,304.9,1012.6,304.9L1012.6,304.9z"/>
+<path id="path2920" class="st11" d="M1013.2,537.1c-7.4,0-13.4,6-13.4,13.4l0,0c0,7.4,6,13.4,13.4,13.4s13.4-6,13.4-13.4
+	C1026.7,543.1,1020.7,537.1,1013.2,537.1z"/>
+</svg>
+
+
+						<div class="instruction">
+							<h5 ><u>Instructions</u></h5>
+							<p id="steps">Welcome to the Simulator! <br>Start the Simulator by using Power On Button.
+
+							</p>
+						</div>
+						
+						
+				
+
+							</div>
+							</div>
+
+
+
+							<button class="item2" type="button"  style="width:100%; border: solid #080808 3px;" id="enable" onclick="power()"> POWER ON </button>
+
+							<div class="item3" style="font-size: 20px; font-weight: bold; display: flex; flex-direction: row; gap: 20px; align-content: center; justify-content: center; align-self: auto; ">
+								Valve Positioning
+								<div style="display: flex; flex-direction: column">
+									
+									<input id="flow-rate-slider" list="markers" name ="slider" min="0" max="5" type="range" step="1" value="0" disabled="True" onchange="updateValvePositioning()" >
+								
+									<datalist id="values">
+										<option value="0" label="0"></option>
+										<option value="1" label="1"></option>
+										<option value="2" label="2"></option>
+										<option value="3" label="3"></option>
+										<option value="4" label="4"></option>
+										<option value="5" label="5"></option>
+									</datalist>
+
+								</div>
+								  
+							</div>
+
+
+							<button class="itemx" type="button"  style="width:100%; border: solid #080808 3px;" id="purze" disabled="True" onclick="purzeAction()"> CLOSE GATE VALVE </button>
+
+							<div class="page-break"></div>
+							<div class="item6">
+
+								<h1 style="text-align: center;">OBSERVATION</h1>
+
+								<div class="data-div">
+									<div class="item4" style="padding: 0%;display: flex;flex-direction: column;gap: 5px;">
+										<h2 style="text-align: center;padding: .5%;margin: 0%;background-color: #634380;color: white;">Formulaes</h2><br>
+										
+										<p style="text-align: center;  font-size:20px; font-weight: bolder; padding: 10px;">
+											<math style="font-weight: bold;" xmlns="http://www.w3.org/1998/Math/MathML">
+												Total Head (H) = 10 × (Gauge Pressure + Vacuum Pressure) in meters
+												
+											  </math> 
+											  
+											  
+											  
+											 
+											  
+											  <math style="font-weight: bold;" xmlns="http://www.w3.org/1998/Math/MathML">
+												<mrow mathsize="1em">
+													<mi>Q</mi>
+													<mo>=</mo>
+													<mfrac linethickness="1">
+													  <mrow mathsize="0.9em">
+														<mi>A</mi>
+														<mo>×</mo>
+														<mi>h</mi>
+													  </mrow>
+													  <mi>t</mi>
+													</mfrac>
+												  </mrow>
+											  </math><br><br>
+
+											  <math style="font-weight: bold;" xmlns="http://www.w3.org/1998/Math/MathML">
+												<mrow mathsize="1em">
+    <msub>
+      <mi>P</mi>
+      <mrow>
+        <mi>input</mi>
+      </mrow>
+    </msub>
+    <mo>=</mo>
+    <mfrac linethickness="1">
+      <mrow mathsize="0.9em">
+        <mn>3.6</mn>
+        <mo>×</mo>
+        
+          <mn>10</mn>
+		  <mo>×</mo>
+          <mn>n</mn>
+        
+        <mo>×</mo>
+        <mn>1.36</mn>
+      </mrow>
+      <mrow>
+        <mi>K</mi>
+        <mo>×</mo>
+        <msub>
+          <mi>t</mi>
+          <mrow>
+            <mi>rev</mi>
+          </mrow>
+        </msub>
+      </mrow>
+    </mfrac>
+  </mrow>
+</math>
+<br><br>
+											  
+											<math style="font-weight: bold;" xmlns="http://www.w3.org/1998/Math/MathML">
+												<msub>
+													<mi>P</mi>
+													<mrow class="MJX-TeXAtom-ORD">
+													  <mi>output</mi>
+													</mrow>
+												  </msub>
+												  <mo>=</mo>
+												  <mfrac>
+													<mrow>
+													  <mi style="font-size: larger;">W</mi>
+													  <mo>×</mo>
+													  <mi style="font-size: larger;">Q</mi>
+													  <mo>×</mo>
+													  <mi style="font-size: larger;">H</mi>
+													</mrow>
+													<mn>75</mn>
+												  </mfrac>
+											  </math>
+											  <BR><BR>
+
+											  <math style="font-weight: bold;" xmlns="http://www.w3.org/1998/Math/MathML">
+												<mi>η</mi>
+												
+											  
+											  <mo>=</mo>
+											  <mfrac>
+												<mrow>
+												  <msub>
+													<mi>P</mi>
+													<mrow class="MJX-TeXAtom-ORD">
+													  <mi>output</mi>
+													</mrow>
+												  </msub>
+												</mrow>
+												<mrow>
+												  <msub>
+													<mi>P</mi>
+													<mrow class="MJX-TeXAtom-ORD">
+													  <mi>input</mi>
+													</mrow>
+												  </msub>
+												</mrow>
+											  </mfrac>
+											  <mo>&#xD7; 100%</mo>
+											  </math>
+											  
+											  
+											  
+										</p>
+										
+										
+		
+									</div> 
+		
+		
+									<div class="item5" style="padding: 0%;">
+										<h2 style="text-align: center;padding: .5%;margin: 0%;background-color: #634380;color: white;">Provided Data</h2>
+										
+										<p style="text-align: center; line-height: 40px; font-size: 19px;  font-weight: bolder; margin: 10px; padding: 20px;">
+											
+											Area of Discharge Tank = 0.25 &nbsp;m<sup>2</sup><br>
+											Number of Meter revolution (n) = 10<br>
+											Energy Meter Constant (K) = 15.018 <br>
+											
+											Specific Weight of Water (W)= 1000 &nbsp;kg/m<sup>3</sup><br>
+										
+										</p>
+										
+									</div> 
+
+								</div>
+
+								<table id="tab1" class="observationTable" border="1">
+									<tr>
+										<th colspan="7" style="font-size: 25px; font-weight: bolder; background-color: #634380;color: white;">Observation Table</th>
+									</tr>
+									<tr>
+									  <th>S.No:</th>
+									  <th>Pressure Gauge<br> (Kg/cm<sup>2</sup>)</th>
+									  <th>Vacuum gauge <br>(Kg/cm<sup>2</sup>)</th>
+									 
+									  <th>Time for 10 cm rise of water (t) <br>(Sec)</th>
+									  <th>Time for 10 revolutions of meter (trev)<br> (Sec)</th>
+									  <th>Speed N <br>(RPM)</th>
+									</tr>
+									<tr>
+										<td>1.</td>
+										<td id="t1"><input type="number"></td>
+										<td id="t2"><input type="number"></td>
+										<td id="t3"><input type="number"></td>
+										<td id="t4"><input type="number"></td>
+										<td id="t5"><input type="number"></td>
+									</tr>
+									<tr>
+										<td>2.</td>
+										<td id="t6"><input type="number"></td>
+										<td id="t7"><input type="number"></td>
+										<td id="t8"><input type="number"></td>
+										<td id="t9"><input type="number"></td>
+										<td id="t10"><input type="number"></td>
+									</tr>
+									
+									<tr>
+										<td>3.</td>
+										<td id="t11"><input type="number"></td>
+										<td id="t12"><input type="number"></td>
+										<td id="t13"><input type="number"></td>
+										<td id="t14"><input type="number"></td>
+										<td id="t15"><input type="number"></td>
+									</tr>
+									<tr>
+									<td>4.</td>
+										<td id="t16"><input type="number"></td>
+										<td id="t17"><input type="number"></td>
+										<td id="t18"><input type="number"></td>
+										<td id="t19"><input type="number"></td>
+										<td id="t20"><input type="number"></td>
+										</tr>
+										<tr>
+											<td>5.</td>
+											<td id="t21"><input type="number"></td>
+											<td id="t22"><input type="number"></td>
+											<td id="t23"><input type="number"></td>
+											<td id="t24"><input type="number"></td>
+											<td id="t25"><input type="number"></td>
+										</tr>
+								  </table>
+
+								  <table id="tab1" class="calculationTable" border="1"> 
+									<tr>
+										<th colspan="9" style="font-size: 25px; font-weight: bolder; background-color: #634380;color: white;">Calculation Table</th>
+									</tr>
+									<tr>
+										<th style="padding:5px;">S. No</th>
+										<th>Total Head H <br>(m)</th>
+										<th>Flow Rate Q <br>(m<sup>3</sup>/s)</th>
+										<th>Input Power <br>(HP)</th>
+										<th>Output Power <br>(HP)</th>
+										<th>Efficiency <br> (%)</th>
+									  </tr>
+									  <tr>
+										<td style="padding:4px;">1.</td>
+											<td id="t26"><input type="text"></td>
+											<td id="t27"><input type="text"></td>
+											<td id="t28"><input type="text"></td>
+											<td id="t29"><input type="text"></td>
+											<td id="t30"><input type="text"></td>
+									  </tr>
+									  <tr>
+										<td style="padding:4px;">2</td>
+										<td id="t31"><input type="text"></td>
+											<td id="t32"><input type="text"></td>
+											<td id="t33"><input type="text"></td>
+											<td id="t34"><input type="text"></td>
+											<td id="t35"><input type="text"></td>
+									  </tr>
+									  <tr>
+										<td style="padding:4px;">3</td>
+										<td id="t36"><input type="text"></td>
+											<td id="t37"><input type="text"></td>
+											<td id="t38"><input type="text"></td>
+											<td id="t39"><input type="text"></td>
+											<td id="t40"><input type="text"></td>
+									  </tr>
+									  <tr>
+										<td style="padding:4px;">4</td>
+										<td id="t41"><input type="text"></td>
+											<td id="t42"><input type="text"></td>
+											<td id="t43"><input type="text"></td>
+											<td id="t44"><input type="text"></td>
+											<td id="t45"><input type="text"></td>
+									  </tr>
+									  <tr>
+										<td style="padding:4px;">5</td>
+										<td id="t46"><input type="text"></td>
+											<td id="t47"><input type="text"></td>
+											<td id="t48"><input type="text"></td>
+											<td id="t49"><input type="text"></td>
+											<td id="t50"><input type="text"></td>
+									  </tr>
+								</table>
+
+								
+
+								<table id="tab1" class="result-table" border="1" style="display: none">
+										<tr>
+										<th colspan="9" style="font-size: 25px; font-weight: bolder; background-color: #634380;color: white;">Result Table</th>
+									</tr>
+									<tr>
+										<th style="padding:5px;">S. No</th>
+										<th>Total Head H <br>(m)</th>
+										<th>Flow Rate Q <br>(m<sup>3</sup>/s)</th>
+										<th>Input Power <br>(HP)</th>
+										<th>Output Power <br>(HP)</th>
+										<th>Efficiency <br> (%)</th>
+									  </tr>
+									  <tr>
+										<td style="padding:4px; ">1.</td>
+										<td>4.60</td>
+										<td>7.81E-04</td>
+										<td>0.6520</td>
+										<td>0.0479</td>
+										<td>7.349</td>
+									  </tr>
+									  <tr>
+										<td style="padding:4px;">2.</td>
+										<td>14.20</td>
+										<td>7.58E-04</td>
+										<td>0.7582</td>
+										<td>0.1434</td>
+										<td>18.919</td>
+									  </tr>
+									  <tr>
+										<td style="padding:4px;">3.</td>
+										<td>24.20</td>
+										<td>7.14E-04</td>
+										<td>0.8811</td>
+										<td>0.2305</td>
+										<td>26.158</td>
+									  </tr>
+									  <tr>
+										<td style="padding:4px;">4.</td>
+										<td>33.80</td>
+										<td>6.94E-04</td>
+										<td>1.1242</td>
+										<td>0.3130</td>
+										<td>27.840</td>
+									  </tr>
+									  <tr>
+										<td style="padding:4px;">5.</td>
+										<td>39.00</td>
+										<td>6.76E-04</td>
+										<td>1.0516</td>
+										<td>0.3514</td>
+										<td>33.410</td>
+									  </tr>
+								</table>
+
+
+								<button type="button" class="checkYourResult" style="border: solid black 3px; border-radius: 5px; padding: 5px;" onclick="calculate()" >Calculate</button>
+
+								<button id="check-button" type="button" class="checkYourResult" style="border: solid black 3px; border-radius: 5px; padding: 5px;" disabled="true" onclick="checkYourResult()" >Check Your Result</button>
+
+								<div  style="margin:auto; display: flex; gap: 40px ;">
+									<button style=" margin-bottom: 40px; border: solid black 3px; border-radius: 5px; padding: 5px; " onclick="exportToExcel()">Export to Excel</button>
+									<button style=" margin-bottom: 40px; border: solid black 3px; border-radius: 5px; padding: 5px; " onclick="window.print()">Print this page</button>
+									
+								</div>
+
+
+							</div>
+
+
+						</div>
+					</div> 
+
+						
+
+
+						
+
+						
+
+				<!-- Add JS at the bottom of HTML file --> 
+				<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+				<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.4/xlsx.full.min.js"></script>
+					<script src="./js/main.js"></script>
+					<script src="./js/calculation.js"></script>
+			</body>
+			</html>
