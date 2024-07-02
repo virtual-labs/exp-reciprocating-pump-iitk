@@ -10,10 +10,10 @@
         "d": "Enthalpy"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is slip. Slip refers to the fluid that leaks back from the high-pressure side of the pump to the low-pressure side, reducing the overall efficiency of the pump.",
+        "b": "The correct answer is slip. Slip refers to the fluid that leaks back from the high-pressure side of the pump to the low-pressure side, reducing the overall efficiency of the pump.",
+        "c": "The correct answer is slip. Slip refers to the fluid that leaks back from the high-pressure side of the pump to the low-pressure side, reducing the overall efficiency of the pump.",
+        "d": "The correct answer is slip. Slip refers to the fluid that leaks back from the high-pressure side of the pump to the low-pressure side, reducing the overall efficiency of the pump."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "Heat flux"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is wear. Slip in a pump is significantly affected by wear and tear on the pump components. As the pump components wear out, the clearances increase, leading to more fluid leakage and increased slip.",
+        "b": "The correct answer is wear. Slip in a pump is significantly affected by wear and tear on the pump components. As the pump components wear out, the clearances increase, leading to more fluid leakage and increased slip.",
+        "c": "The correct answer is wear. Slip in a pump is significantly affected by wear and tear on the pump components. As the pump components wear out, the clearances increase, leading to more fluid leakage and increased slip.",
+        "d": "The correct answer is wear. Slip in a pump is significantly affected by wear and tear on the pump components. As the pump components wear out, the clearances increase, leading to more fluid leakage and increased slip."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "Dumped"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is serviced. If the slip exceeds 5 percent, it indicates significant inefficiency and the need for maintenance or servicing to restore the pump's performance.",
+        "b": "The correct answer is serviced. If the slip exceeds 5 percent, it indicates significant inefficiency and the need for maintenance or servicing to restore the pump's performance.",
+        "c": "The correct answer is serviced. If the slip exceeds 5 percent, it indicates significant inefficiency and the need for maintenance or servicing to restore the pump's performance.",
+        "d": "The correct answer is serviced. If the slip exceeds 5 percent, it indicates significant inefficiency and the need for maintenance or servicing to restore the pump's performance."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "Upto 85%"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is up to 85%. Reciprocating pumps can achieve high efficiencies, often up to 85%, due to their positive displacement mechanism, which ensures minimal fluid leakage and high pressure output.",
+        "b": "The correct answer is up to 85%. Reciprocating pumps can achieve high efficiencies, often up to 85%, due to their positive displacement mechanism, which ensures minimal fluid leakage and high pressure output.",
+        "c": "The correct answer is up to 85%. Reciprocating pumps can achieve high efficiencies, often up to 85%, due to their positive displacement mechanism, which ensures minimal fluid leakage and high pressure output.",
+        "d": "The correct answer is up to 85%. Reciprocating pumps can achieve high efficiencies, often up to 85%, due to their positive displacement mechanism, which ensures minimal fluid leakage and high pressure output."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -78,10 +78,10 @@
         "d": "All of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is below 2%. In a well-maintained pump, the slip should ideally be below 2% to ensure high efficiency and minimal fluid leakage.",
+        "b": "The correct answer is below 2%. In a well-maintained pump, the slip should ideally be below 2% to ensure high efficiency and minimal fluid leakage.",
+        "c": "The correct answer is below 2%. In a well-maintained pump, the slip should ideally be below 2% to ensure high efficiency and minimal fluid leakage.",
+        "d": "The correct answer is below 2%. In a well-maintained pump, the slip should ideally be below 2% to ensure high efficiency and minimal fluid leakage."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -95,10 +95,10 @@
         "d": "Lower"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is lower. Reciprocating pumps generally have lower efficiency compared to centrifugal pumps due to their complex mechanism and higher energy consumption for the same flow rate.",
+        "b": "The correct answer is lower. Reciprocating pumps generally have lower efficiency compared to centrifugal pumps due to their complex mechanism and higher energy consumption for the same flow rate.",
+        "c": "The correct answer is lower. Reciprocating pumps generally have lower efficiency compared to centrifugal pumps due to their complex mechanism and higher energy consumption for the same flow rate.",
+        "d": "The correct answer is lower. Reciprocating pumps generally have lower efficiency compared to centrifugal pumps due to their complex mechanism and higher energy consumption for the same flow rate."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -112,10 +112,10 @@
         "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is 1 and 2 (Ensuring constant rate of discharge and reduction in power consumption). An air vessel helps to smooth out the pulsations in the discharge flow and reduce the power required to drive the pump by storing and releasing energy.",
+        "b": "The correct answer is 1 and 2 (Ensuring constant rate of discharge and reduction in power consumption). An air vessel helps to smooth out the pulsations in the discharge flow and reduce the power required to drive the pump by storing and releasing energy.",
+        "c": "The correct answer is 1 and 2 (Ensuring constant rate of discharge and reduction in power consumption). An air vessel helps to smooth out the pulsations in the discharge flow and reduce the power required to drive the pump by storing and releasing energy.",
+        "d": "The correct answer is 1 and 2 (Ensuring constant rate of discharge and reduction in power consumption). An air vessel helps to smooth out the pulsations in the discharge flow and reduce the power required to drive the pump by storing and releasing energy."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -129,10 +129,10 @@
         "d": "Overall efficiency"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is flow output. A double-acting reciprocating pump pumps fluid during both the forward and backward strokes of the piston, effectively doubling the flow output compared to a single-acting pump.",
+        "b": "The correct answer is flow output. A double-acting reciprocating pump pumps fluid during both the forward and backward strokes of the piston, effectively doubling the flow output compared to a single-acting pump.",
+        "c": "The correct answer is flow output. A double-acting reciprocating pump pumps fluid during both the forward and backward strokes of the piston, effectively doubling the flow output compared to a single-acting pump.",
+        "d": "The correct answer is flow output. A double-acting reciprocating pump pumps fluid during both the forward and backward strokes of the piston, effectively doubling the flow output compared to a single-acting pump."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -146,10 +146,10 @@
         "d": "85%"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is 85%. Fitting an air vessel to a single-acting reciprocating pump can save up to 85% of the work by reducing the fluctuations in pressure and flow, resulting in smoother operation and lower energy consumption.",
+        "b": "The correct answer is 85%. Fitting an air vessel to a single-acting reciprocating pump can save up to 85% of the work by reducing the fluctuations in pressure and flow, resulting in smoother operation and lower energy consumption.",
+        "c": "The correct answer is 85%. Fitting an air vessel to a single-acting reciprocating pump can save up to 85% of the work by reducing the fluctuations in pressure and flow, resulting in smoother operation and lower energy consumption.",
+        "d": "The correct answer is 85%. Fitting an air vessel to a single-acting reciprocating pump can save up to 85% of the work by reducing the fluctuations in pressure and flow, resulting in smoother operation and lower energy consumption."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -163,10 +163,10 @@
         "d": "2LAN"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "The correct answer is 2LAN/60. The discharge of a double-acting reciprocating pump is calculated based on the length of the stroke (L), the cross-sectional area of the piston (A), and the speed of the crank (N). The factor of 2 accounts for the double action, and dividing by 60 converts the RPM to flow rate per second.",
+        "b": "The correct answer is 2LAN/60. The discharge of a double-acting reciprocating pump is calculated based on the length of the stroke (L), the cross-sectional area of the piston (A), and the speed of the crank (N). The factor of 2 accounts for the double action, and dividing by 60 converts the RPM to flow rate per second.",
+        "c": "The correct answer is 2LAN/60. The discharge of a double-acting reciprocating pump is calculated based on the length of the stroke (L), the cross-sectional area of the piston (A), and the speed of the crank (N). The factor of 2 accounts for the double action, and dividing by 60 converts the RPM to flow rate per second.",
+        "d": "The correct answer is 2LAN/60. The discharge of a double-acting reciprocating pump is calculated based on the length of the stroke (L), the cross-sectional area of the piston (A), and the speed of the crank (N). The factor of 2 accounts for the double action, and dividing by 60 converts the RPM to flow rate per second."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
