@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1)Amount of fluid that leaks from a higher-pressure discharge to a lower pressure discharge is called?",
+      "question": "1) Amount of fluid that leaks from a higher-pressure discharge to a lower pressure discharge is called?",
       "answers": {
         "a": "Air",
         "b": "Oil",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2)Slip in a pump depends on which of following parameters?",
+      "question": "2) Slip in a pump depends on which of following parameters?",
       "answers": {
         "a": "Pressure",
         "b": "Wear",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3)If slip exceeds 5 percent, the pumps needs to be ?",
+      "question": "3) If slip exceeds 5 percent, the pumps needs to be ?",
       "answers": {
         "a": "Dragged",
         "b": "Intermittent",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4)Maximum efficiency of reciprocating pump is ",
+      "question": "4) Maximum efficiency of reciprocating pump is ",
       "answers": {
         "a": "Upto 50%",
         "b": "Upto 600%",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5)For a good condition, slip should be",
+      "question": "5) For a good condition, slip should be",
       "answers": {
         "a": "Below 2 percent",
         "b": "2 to 4 percent",
@@ -87,7 +87,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "6)Reciprocating pumps has ____ efficiency compared to centrifugal pumps",
+      "question": "6) Reciprocating pumps has ____ efficiency compared to centrifugal pumps",
       "answers": {
         "a": "Equal",
         "b": "Exponential",
@@ -104,7 +104,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "7)Which of the following are the beneficial effects of air vessel fitted to the delivery side of a reciprocating pump ? <br> 1: Ensuring Constant rate of discharge <br> 2: Reduction in power consumption <br> 3: Increase in discharge",
+      "question": "7) Which of the following are the beneficial effects of air vessel fitted to the delivery side of a reciprocating pump ? <br> 1: Ensuring Constant rate of discharge <br> 2: Reduction in power consumption <br> 3: Increase in discharge",
         "answers": {
         "a": "1 and 2",
         "b": "2 and 3",
@@ -121,7 +121,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "8)The ……………………….. of a double acting reciprocating pump as compared to the single acting pump will almost be double.",
+      "question": "8) The ……………………….. of a double acting reciprocating pump as compared to the single acting pump will almost be double.",
       "answers": {
         "a": "Weight",
         "b": "flow output",
@@ -138,7 +138,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "9)The work saved by fitting an air vessel to a single acting reciprocating pump is",
+      "question": "9) The work saved by fitting an air vessel to a single acting reciprocating pump is",
       "answers": {
         "a": "30%",
         "b": "55%",
@@ -155,7 +155,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "10)The discharge of a double acting reciprocating pump is (where L = Length of stroke, A = Cross-sectional area of piston and N = Speed of crank in RPM)",
+      "question": "10) The discharge of a double acting reciprocating pump is (where L = Length of stroke, A = Cross-sectional area of piston and N = Speed of crank in RPM)",
       "answers": {
         "a": "2LAN/60",
         "b": "LAN/60",
