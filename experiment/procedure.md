@@ -1,5 +1,14 @@
-### 8 Procedure<br> 
-<b> 8.1 Formulae </b><br>
+<b>Procedure – </b><br>
+
+1. Note down the diameter (D) and stroke length (L) of the piston, wattmeter constant k, distances Z<sub> d </sub> and Z<sub> s </sub> of the pressure gauges from the pump axis<br>
+2. Start the motor and open the delivery valve fully<br>
+3. Measure the discharge Q <sub> actual </sub><br>
+4. Note down the pressure gauge reading P<sub> d </sub> and P<sub> s </sub> and also wattmeter reading X<br>
+5. Measure the number of strokes occurring in a given time and hence obtain the speed of the piston in RPM<br>
+6. Change the opening of the delivery valve<br>
+7. Repeat steps 3 to 6 for atleast ten different openings of the delivery valve<br> 
+
+<b>Formulae </b><br>
 Under ideal conditions the discharge in case of double acting reciprocating pump is given by:<br>
 1. Q<sub>th</sub>= ALN/60 – (A – a)LN/60<br>
 = 2ALN/60 since (a << A) ......(1)<br>
@@ -37,17 +46,7 @@ F = friction factor<br>
 d<sub> d </sub> = Diameter of delivery pipe<br>
 d<sub> s </sub> = Diameter of suction pipe<br>
 
-<b>8.2	Procedure – </b><br>
-
-1. Note down the diameter (D) and stroke length (L) of the piston, wattmeter constant k, distances Z<sub> d </sub> and Z<sub> s </sub> of the pressure gauges from the pump axis<br>
-2. Start the motor and open the delivery valve fully<br>
-3. Measure the discharge Q <sub> actual </sub><br>
-4. Note down the pressure gauge reading P<sub> d </sub> and P<sub> s </sub> and also wattmeter reading X<br>
-5. Measure the number of strokes occurring in a given time and hence obtain the speed of the piston in RPM<br>
-6. Change the opening of the delivery valve<br>
-7. Repeat steps 3 to 6 for atleast ten different openings of the delivery valve<br> 
-
-<b> 8.3 Observations - </b><br>
+<b>Observations - </b><br>
 
 1. Diameter of the piston, D = …………..<br>
 2. Stroke length of the piston, L = ………….<br>
