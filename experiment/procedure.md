@@ -10,7 +10,7 @@
 
 <b>Formulae </b><br>
 Under ideal conditions the discharge in case of double acting reciprocating pump is given by:<br>
-1. Q<sub>th</sub>= ALN/60 – (A – a)LN/60<br>
+<!-- 1. Q<sub>th</sub>= ALN/60 – (A – a)LN/60<br>
 = 2ALN/60 since (a << A) ......(1)<br>
 Q<sub> th </sub> = theoretical discharge<br>
 A = Cross-sectional area of the piston<br>
@@ -44,9 +44,16 @@ H<sub> fd </sub> = head loss due to friction on delivery side = …………..  
 H<sub> fs </sub> = head loss due to friction on suction side = …………..    (7)<br>
 F = friction factor<br>
 d<sub> d </sub> = Diameter of delivery pipe<br>
-d<sub> s </sub> = Diameter of suction pipe<br>
+d<sub> s </sub> = Diameter of suction pipe<br><br> -->
+<img src="formula_1.PNG"><br>
+<img src="formula_2.PNG"><br>
+<img src="formula_3.PNG"><br><br>
 
-<b>Observations - </b><br>
+<b>Calculations</b><br>
+Perform the following calculations for each opening of the delivery valve : <br>
+<img src="calculation.png"><br><br>
+
+<!-- <b>Observations - </b><br>
 
 1. Diameter of the piston, D = …………..<br>
 2. Stroke length of the piston, L = ………….<br>
@@ -63,4 +70,20 @@ d<sub> s </sub> = Diameter of suction pipe<br>
 Plot the following curves <br>
 (1)	Speed Vs. <br>
 (2)	Speed Vs. <br>
-(3)	Speed Vs.<br>
+(3)	Speed Vs.<br> -->
+
+<b>5 Advantages of Reciprocating Pump</b><br>
+
+The advantages of Reciprocating Pump include the following.<br>
+•	No priming required<br>
+•	Pressure and flow rate changes have little effect on performance<br>
+•	Reciprocating pumps generally operate at higher efficiencies than other pumps, generally reaching levels of 85% or more efficiency<br>
+•	A reciprocating pump provides a steady, unchanging flow rate<br>
+
+<b>6 Disadvantages of Reciprocating Pump</b><br>
+
+The disadvantages of the Reciprocating Pump include the following.<br>
+•	Pulsating flow<br>
+•	Typically handles only low flow rates<br>
+•	High operating and maintenance cost<br>
+•	Not able to handle dirty water<br>

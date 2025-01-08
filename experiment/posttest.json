@@ -75,7 +75,7 @@
         "a": "Below 2 percent",
         "b": "2 to 4 percent",
         "c": "Above 5 percent",
-        "d": "All of these"
+        "d": "Below 5 Percent"
       },
       "explanations": {
         "a": "The correct answer is below 2%. In a well-maintained pump, the slip should ideally be below 2% to ensure high efficiency and minimal fluid leakage.",
@@ -108,8 +108,8 @@
         "answers": {
         "a": "1 and 2",
         "b": "2 and 3",
-        "c": "All of these",
-        "d": "None of these"
+        "c": "3 and 4",
+        "d": "4 and 5"
       },
       "explanations": {
         "a": "The correct answer is 1 and 2 (Ensuring constant rate of discharge and reduction in power consumption). An air vessel helps to smooth out the pulsations in the discharge flow and reduce the power required to drive the pump by storing and releasing energy.",
