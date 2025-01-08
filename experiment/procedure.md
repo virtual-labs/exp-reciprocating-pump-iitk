@@ -45,13 +45,13 @@ H<sub> fs </sub> = head loss due to friction on suction side = …………..   
 F = friction factor<br>
 d<sub> d </sub> = Diameter of delivery pipe<br>
 d<sub> s </sub> = Diameter of suction pipe<br><br> -->
-<img src="formula_1.PNG"><br>
-<img src="formula_2.PNG"><br>
-<img src="formula_3.PNG"><br><br>
+<img src="images/formula_1.PNG"><br>
+<img src="images/formula_2.PNG"><br>
+<img src="images/formula_3.PNG"><br><br>
 
 <b>Calculations</b><br>
 Perform the following calculations for each opening of the delivery valve : <br>
-<img src="calculation.png"><br><br>
+<img src="images/calculation.png"><br><br>
 
 <!-- <b>Observations - </b><br>
 
