@@ -72,7 +72,7 @@ Plot the following curves <br>
 (2)	Speed Vs. <br>
 (3)	Speed Vs.<br> -->
 
-<b>5 Advantages of Reciprocating Pump</b><br>
+<b>Advantages of Reciprocating Pump</b><br>
 
 The advantages of Reciprocating Pump include the following.<br>
 •	No priming required<br>
@@ -80,7 +80,7 @@ The advantages of Reciprocating Pump include the following.<br>
 •	Reciprocating pumps generally operate at higher efficiencies than other pumps, generally reaching levels of 85% or more efficiency<br>
 •	A reciprocating pump provides a steady, unchanging flow rate<br>
 
-<b>6 Disadvantages of Reciprocating Pump</b><br>
+<b>Disadvantages of Reciprocating Pump</b><br>
 
 The disadvantages of the Reciprocating Pump include the following.<br>
 •	Pulsating flow<br>
