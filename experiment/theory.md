@@ -4,7 +4,7 @@ A reciprocating pump is also known as positive displacement pump. Since it disch
 <b>Parts of a Reciprocating Pump</b><br>
 
 <img src="images/Picture2.jpg" alt="images/Picture2.jpg" class="center"><br>
-{Fig. 1: Basic parts of Reciprocating Pump} <br>
+Fig. 1: Basic parts of Reciprocating Pump <br>
 
 The following are the basic parts of the reciprocating pump.<br>
 1.	Cylinder<br>
