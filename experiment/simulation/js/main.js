@@ -1,9 +1,11 @@
 //Your JavaScript goes in here
 var enableButton=document.getElementById("enable");
+var highlightArrow = document.getElementById("highlight-arrow");
 var purzeButton=document.getElementById("purze")
 var valvePositioning = document.querySelector("#flow-rate-slider")
 var svg=document.getElementById("Layer_1");
 var valvePositioningText = document.getElementById("valve-positioning-text");
+var valvePositioningContainer=document.getElementById("valve-positioning-container");
 var count=0
 window.appData = window.appData || {};
 window.appData.powerFlag = false;
@@ -36,6 +38,7 @@ var electricMeter = document.getElementById("electric-meter")
 var electricMeterRotation = document.getElementById("part3")
 var electricMeterText = document.getElementById("electric-meter-text")
 var rpmText = document.getElementById("rpm-text")
+var currentHighlightedElement = enableButton;
 function power(){
     if(count==0){
         enableButton.style.backgroundColor="#4cae4c"
@@ -44,6 +47,7 @@ function power(){
         count=1
         waterFlow1()
         valve1.setAttribute("fill","green")
+        highlightArrow.style.display="none"
     }else{
         if(!window.appData.powerFlag){
             alert("Please complete the experiment to turn power off!");
@@ -177,6 +181,7 @@ function waterFlow4(){
 
     setTimeout(function() {
         document.getElementById("steps").innerHTML = "Choose a value on the valve positioning slider to regulate the water flow."
+        highlightArrowFn(valvePositioningContainer)
         valvePositioning.disabled = false
       }, 500);
     
@@ -225,6 +230,7 @@ function updateValvePositioning(){
     }else{
         valvePositioning.disabled = true;
         waterFlow5() 
+        highlightArrow.style.display="none"
     }
     
     valvePositioningText.textContent = selectedValue;
@@ -273,6 +279,7 @@ function fillTankFront(){
     animateElement.beginElement();
     setTimeout(function() {
         document.getElementById("steps").innerHTML = "Now, click on electric meter to get the time for 10 revolution of electric meter. "
+        highlightArrowFn(electricMeter)
         // if(valvePositioning.value == 4){
         //     document.getElementById("steps").innerHTML = "Take note of the current time on the timer 1 and use the provided data to calculate the efficiency."
         // }valvePositioning.disabled=false
@@ -323,7 +330,7 @@ function purzeAction(){
     waterTankSideFlow(577.5,506.9)
     arrowMovement()
     arrowMovement2(573.3,579.3,585.3)
-
+    highlightArrow.style.display = "none"
     purzeButton.disabled= true
 }
 
@@ -390,7 +397,9 @@ function waterFlow8(){
                 pressureGuageReadingText.textContent = "0.40"
                 guageReadingText.textContent = "3.5"
             }
-            document.getElementById("steps").innerHTML = "Take note of the vacuum pressure guage reading and pressure gauge reading, and then close the discharge valve using the close  dischare valve button."
+            document.getElementById("steps").innerHTML = "Take note of the vacuum pressure guage reading and pressure gauge reading, and then close the discharge valve using the close gate valve button."
+            highlightArrowFn(purzeButton)
+            highlightArrowFn()
             purzeButton.disabled = false;
         }, 1000);
     // }
@@ -560,8 +569,10 @@ function rotateElectricMeter() {
         clickEnabled=false
         valvePositioning.disabled=false
         document.getElementById("steps").innerHTML = "Readust the value of gate valve to get further readings by using valve positioning slider."
+        highlightArrowFn(valvePositioningContainer)
         if(valvePositioning.value == 5){
             document.getElementById("steps").innerHTML = "Now, use all obeservations to calculate efficiency."
+            highlightArrow.style.display = "none"
         }
     },5000)
   }
@@ -735,3 +746,23 @@ function rotateElectricMeter() {
       timerSec2.textContent = "00"; 
       timerMS2.textContent = "00";
   }
+
+  function highlightArrowFn(element) {
+    if (element) {
+      let rect = element.getBoundingClientRect();
+      highlightArrow.style.left = `${
+        rect.left + window.scrollX + rect.width / 2 - 25
+      }px`;
+      highlightArrow.style.top = `${rect.top + window.scrollY - 50}px`;
+      highlightArrow.style.display = "block";
+      currentHighlightedElement = element;
+    }
+  }
+  
+  document.addEventListener("DOMContentLoaded", () =>
+    highlightArrowFn(enableButton)
+  );
+
+  window.addEventListener('resize', function() {
+    highlightArrowFn(currentHighlightedElement);
+  });
