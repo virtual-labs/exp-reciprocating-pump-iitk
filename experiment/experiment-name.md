@@ -1,1 +1,1 @@
-## Performance Characteristics of Single acting Reciprocating Pump
+## Performance Characteristics of Single Acting Reciprocating Pump
