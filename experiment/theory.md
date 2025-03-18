@@ -45,7 +45,7 @@ A strainer is essentially a sieve kind of filter which prevents the entry of sol
 It is a closed chamber made up of cast iron. It has two ends. One end is open at its base through which the water flows into the vessel cylinder. The air vessels are fitted on the suction pipe and delivery pipe of reciprocating pump to obtain a uniform discharge.<br>
 
 <img src="images/Picture3.jpg" alt="images/Picture3.jpg" class="center"><br>
-{Fig. 2: Air Vessels in Reciprocating Pump} <br> 
+Fig. 2: Air Vessels in Reciprocating Pump <br> 
 
 Functions of Air Vessels<br>
 
@@ -59,7 +59,7 @@ Functions of Air Vessels<br>
 
 <img src="images/Picture5.jpg" alt="images/Picture5.jpg" class="center"><br>
 
-{Graph 1: Cycle of Single and Double Acting reciprocating pump} <br>
+Graph 1: Cycle of Single and Double Acting reciprocating pump <br>
 
 Following are the two different working principles:<br>
 •	Single-acting reciprocating pump <br>
@@ -68,7 +68,7 @@ Following are the two different working principles:<br>
 <b>4.1	Single Acting Reciprocating Pump</b><br>
 
 <img src="images/Picture6.jpg" alt="images/Picture6.jpg" class="center"><br>
-{Fig. 3: Single Acting Reciprocating Pump} <br>
+Fig. 3: Single Acting Reciprocating Pump <br>
 
 A single acting reciprocating pump has one suction pipe and one delivery pipe. It is usually placed above the liquid level in the pump. When the crank rotates the piston moves backward and forward inside the cylinder. The pump operates as follows: -<br>
 (1) Let us suppose that initially the crank is at the inner dead center (I.D.C) and crank rotates in the clockwise direction. As the crank rotates, the piston moves towards right and a vacuum is created on the left side of the piston. This vacuum causes suction valve to open and consequently the liquid is forced from the sump into the left side of the piston. When the crank is at out dead center (O.D.C) the suction stroke is complete and left side of the cylinder is full of liquid.<br>
@@ -77,7 +77,7 @@ A single acting reciprocating pump has one suction pipe and one delivery pipe. I
 <b>4.2	Double Acting Reciprocating Pump</b><br>
 
 <img src="images/Picture7.jpg" alt="images/Picture7.jpg" class="center"><br>
-{Fig. 4: Double Acting Reciprocating Pump:} <br>
+Fig. 4: Double Acting Reciprocating Pump: <br>
 
 In double acting reciprocating pump, suction and delivery strokes occur simultaneously. When the crank rotates from I.D.C in the clockwise direction, a vacuum is created on the left side of piston and the liquid is sucked in from the sump through valve S1. At the same time, the liquid on the right side of the piston is pressed and a high pressure causes the delivery valve D2 to open and the liquid is passed on to the discharge tank. This operation continues till the crank reached O.D.C.<br>
 With further rotation of the crank, the liquid is sucked from the sump through the suction valve S2 and is delivered to the discharge tank through the delivery valve D1. When the crank reached I.D.C, the piston is in the extreme left position. Thus, one cycle is completed and as the crank further rotates, cycles are repeated. <br>
