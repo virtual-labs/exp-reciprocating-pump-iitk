@@ -57,7 +57,7 @@ Functions of Air Vessels<br>
 
 <b>	Working Principle of Reciprocating Pumps</b><br>
 
-<img src="images/Picture5.jpg" alt="images/Picture5.jpg" class="center"><br>
+<img src="images/img_1.png" alt="images/img_1.png" class="center"><br>
 
 Graph. 1: Cycle of a) Single Acting, and b) Double Acting reciprocating pump <br>
 
