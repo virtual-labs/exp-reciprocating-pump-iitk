@@ -59,7 +59,7 @@ Functions of Air Vessels<br>
 
 <img src="images/Picture5.jpg" alt="images/Picture5.jpg" class="center"><br>
 
-Graph 1: Cycle of Single and Double Acting reciprocating pump <br>
+Graph. 1: Cycle of a) Single Acting, and b) Double Acting reciprocating pump <br>
 
 Following are the two different working principles:<br>
 •	Single-acting reciprocating pump <br>
