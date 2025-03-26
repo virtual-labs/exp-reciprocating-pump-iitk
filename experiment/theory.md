@@ -23,7 +23,7 @@ The cylindrical cavity in which the piston moves to and fro is called Cylinder. 
 <b>2. Suction Pipe</b><br>
 Is a pipe which connects source of water to the cylinder. It lets the water into the cylinder during suction stroke.<br>
 
-<b>3. Delivey Pipe</b><br> 
+<b>3. Delivery Pipe</b><br> 
 The delivery pipe connects the pump cylinder to the discharge outlet.<br>
 
 <b>4. Suction Valve</b><br>
@@ -33,10 +33,10 @@ In this valve, the flow of water enters from the suction pipe into the cylinder.
 With this valve, the flow of water is discharged from the cylinder into the delivery pipe. It is also a non-return valve located between the delivery pipe outlets. The valve is in the closed position during suction.<br>
 
 <b>6. Piston head and piston rod</b><br>
-Piston head is a solid part attached to one of the end of the piston rod. Piston head fits tightly inside the cylinder and creaetes vaccum for suction of the liquid during suction stroke. While  the piston rod helps the piston to move in a linear direction and its other end is connected to connecting rod<br>
+Piston head is a solid part attached to one of the end of the piston rod. Piston head fits tightly inside the cylinder and creates vacuum for suction of the liquid during suction stroke. While  the piston rod helps the piston to move in a linear direction and its other end is connected to connecting rod<br>
 
 <b>7. Crank and connecting rod</b><br> 
-Crank and connection rod covert rotatory motion of the motor shaft into the linear motion of piston. A crank is a circular disc that is connected to a motor. While the connecting rod connects the crank to the piston rod.<br> 
+Crank and connecting rod covert rotatory motion of the motor shaft into the linear motion of piston. A crank is a circular disc that is connected to a motor. While the connecting rod connects the crank to the piston rod.<br> 
 
 <b>8. Strainer</b><br>
 A strainer is essentially a sieve kind of filter which prevents the entry of solids from the water source into the cylinders.<br>
@@ -81,7 +81,7 @@ Fig. 4: Double Acting Reciprocating Pump: <br>
 
 In double acting reciprocating pump, suction and delivery strokes occur simultaneously. When the crank rotates from I.D.C in the clockwise direction, a vacuum is created on the left side of piston and the liquid is sucked in from the sump through valve S1. At the same time, the liquid on the right side of the piston is pressed and a high pressure causes the delivery valve D2 to open and the liquid is passed on to the discharge tank. This operation continues till the crank reached O.D.C.<br>
 With further rotation of the crank, the liquid is sucked from the sump through the suction valve S2 and is delivered to the discharge tank through the delivery valve D1. When the crank reached I.D.C, the piston is in the extreme left position. Thus, one cycle is completed and as the crank further rotates, cycles are repeated. <br>
-By virtue of continuous delivery strokes, a double – acting reciprocating pump gives more uniform discharges compared to a single – acting reciprocating pump which pumps liquid intermittently. To achieve even more uniform flow of liquid, invariably a multi-cylinder arrangement having two or more cylinders is employed.<br>
+By virtue of continuous delivery strokes, a double-acting reciprocating pump gives more uniform discharges compared to a single-acting reciprocating pump which pumps liquid intermittently. To achieve even more uniform flow of liquid, invariably a multi-cylinder arrangement having two or more cylinders is employed.<br>
 
 <!-- <b>5 Advantages of Reciprocating Pump</b><br>
 
