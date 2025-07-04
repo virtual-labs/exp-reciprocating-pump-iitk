@@ -36,7 +36,7 @@ With this valve, the flow of water is discharged from the cylinder into the deli
 Piston head is a solid part attached to one of the end of the piston rod. Piston head fits tightly inside the cylinder and creates vacuum for suction of the liquid during suction stroke. While  the piston rod helps the piston to move in a linear direction and its other end is connected to connecting rod<br>
 
 <b>7. Crank and connecting rod</b><br> 
-Crank and connecting rod covert rotatory motion of the motor shaft into the linear motion of piston. A crank is a circular disc that is connected to a motor. While the connecting rod connects the crank to the piston rod.<br> 
+Crank and connecting rod convert rotatory motion of the motor shaft into the linear motion of piston. A crank is a circular disc that is connected to a motor. While the connecting rod connects the crank to the piston rod.<br> 
 
 <b>8. Strainer</b><br>
 A strainer is essentially a sieve kind of filter which prevents the entry of solids from the water source into the cylinders.<br>
