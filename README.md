@@ -1,24 +1,23 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Mechanical Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
-
+<b> Lab | <b> Fluid Mechanics Lab
+<b> Experiment|   <b> Characteristic curves of reciprocating pump.
 ### About the Experiment 
 
-Fill a brief description of this experiment here
+When mechanical energy is converted into stored mechanical energy or pressure energy by help of suction of the liquid into the cylinder with the help of the piston inside a cylinder which is reciprocating forward and backward, which in turn exerts the thrust on the liquid and henceforth increases its hydraulic energy or pressure energy. This kind of hydraulic machine is termed as reciprocating pump. A reciprocating pump is also known as positive displacement pump. Since it discharges a fixed quantity of liquid. Reciprocating pump is mostly used in applications where a small volume of liquid is to be handled and delivery pressure requirement are quite high.
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Prof. J. Ramkumar,  Dr. Amandeep Singh
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  IIT Kanpur
+<b> Email id|     <b>  jrkumar@iitk.ac.in, adsingh@iitk.ac.in
+<b> Department |  Mechanical Engineering
 
 ### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | Lakshaman Das  | Student | Mechanical Engineering |REC Banda| 2107340400013@recbanda.ac.in
+2 | Mubashir Ali | Faculty | Mechanical Engineering | IIT Kanpur | mali@iitk.ac.in
