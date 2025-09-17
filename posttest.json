@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1) Amount of fluid that leaks from a higher-pressure discharge to a lower pressure discharge is called:",
+      "answers": {
+        "a": "Air",
+        "b": "Oil",
+        "c": "Slip",
+        "d": "Enthalpy"
+      },
+      "explanations": {
+        "a": "The correct answer is “Slip”. Slip refers to the fluid that leaks back from the high-pressure side of the pump to the low-pressure side, reducing the overall efficiency of the pump.",
+        "b": "The correct answer is “Slip”. Slip refers to the fluid that leaks back from the high-pressure side of the pump to the low-pressure side, reducing the overall efficiency of the pump.",
+        "c": "The correct answer is “Slip”. Slip refers to the fluid that leaks back from the high-pressure side of the pump to the low-pressure side, reducing the overall efficiency of the pump.",
+        "d": "The correct answer is “Slip”. Slip refers to the fluid that leaks back from the high-pressure side of the pump to the low-pressure side, reducing the overall efficiency of the pump."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2) On which of following parameters the slip in a pump majorly depends?",
+      "answers": {
+        "a": "Pressure",
+        "b": "Wear",
+        "c": "Temperature gradient",
+        "d": "Heat flux"
+      },
+      "explanations": {
+        "a": "The correct answer is “Wear”. Slip in a pump is significantly affected by wear and tear on the pump components. As the pump components wear out, the clearances increase, leading to more fluid leakage and increased slip.",
+        "b": "The correct answer is “Wear”. Slip in a pump is significantly affected by wear and tear on the pump components. As the pump components wear out, the clearances increase, leading to more fluid leakage and increased slip.",
+        "c": "The correct answer is “Wear”. Slip in a pump is significantly affected by wear and tear on the pump components. As the pump components wear out, the clearances increase, leading to more fluid leakage and increased slip.",
+        "d": "The correct answer is “Wear”. Slip in a pump is significantly affected by wear and tear on the pump components. As the pump components wear out, the clearances increase, leading to more fluid leakage and increased slip."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3) If slip exceeds 5 percent, the pumps needs to be:",
+      "answers": {
+        "a": "Dragged",
+        "b": "Intermittent",
+        "c": "Serviced",
+        "d": "Dumped"
+      },
+      "explanations": {
+        "a": "The correct answer is “Serviced”. If the slip exceeds 5 percent, it indicates significant inefficiency and the need for maintenance or servicing to restore the pump's performance.",
+        "b": "The correct answer is “Serviced”. If the slip exceeds 5 percent, it indicates significant inefficiency and the need for maintenance or servicing to restore the pump's performance.",
+        "c": "The correct answer is “Serviced”. If the slip exceeds 5 percent, it indicates significant inefficiency and the need for maintenance or servicing to restore the pump's performance.",
+        "d": "The correct answer is “Serviced”. If the slip exceeds 5 percent, it indicates significant inefficiency and the need for maintenance or servicing to restore the pump's performance."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4) Maximum efficiency of reciprocating pump is:",
+      "answers": {
+        "a": "Up to 50 %",
+        "b": "Up to 600 %",
+        "c": "Up to 70 %",
+        "d": "Up to 85 %"
+      },
+      "explanations": {
+        "a": "The correct answer is “Up to 85 %”. Reciprocating pumps can achieve high efficiencies, often up to 85%, due to their positive displacement mechanism, which ensures minimal fluid leakage and high pressure output.",
+        "b": "The correct answer is “Up to 85 %”. Reciprocating pumps can achieve high efficiencies, often up to 85%, due to their positive displacement mechanism, which ensures minimal fluid leakage and high pressure output.",
+        "c": "The correct answer is “Up to 85 %”. Reciprocating pumps can achieve high efficiencies, often up to 85%, due to their positive displacement mechanism, which ensures minimal fluid leakage and high pressure output.",
+        "d": "The correct answer is “Up to 85 %”. Reciprocating pumps can achieve high efficiencies, often up to 85%, due to their positive displacement mechanism, which ensures minimal fluid leakage and high pressure output."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5) For a good condition, slip should be:",
+      "answers": {
+        "a": "Below 2 %",
+        "b": "2 to 4 %",
+        "c": "Above 5 %",
+        "d": "Below 5 %"
+      },
+      "explanations": {
+        "a": "The correct answer is “Below 2 %”. In a well-maintained pump, the slip should ideally be below 2% to ensure high efficiency and minimal fluid leakage.",
+        "b": "The correct answer is “Below 2 %”. In a well-maintained pump, the slip should ideally be below 2% to ensure high efficiency and minimal fluid leakage.",
+        "c": "The correct answer is “Below 2 %”. In a well-maintained pump, the slip should ideally be below 2% to ensure high efficiency and minimal fluid leakage.",
+        "d": "The correct answer is “Below 2 %”. In a well-maintained pump, the slip should ideally be below 2% to ensure high efficiency and minimal fluid leakage."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6) Reciprocating pumps have <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> efficiency compared to centrifugal pumps",
+      "answers": {
+        "a": "equal",
+        "b": "exponential",
+        "c": "higher",
+        "d": "lower"
+      },
+      "explanations": {
+        "a": "The correct answer is “lower”. Reciprocating pumps generally have lower efficiency compared to centrifugal pumps due to their complex mechanism and higher energy consumption for the same flow rate.",
+        "b": "The correct answer is “lower”. Reciprocating pumps generally have lower efficiency compared to centrifugal pumps due to their complex mechanism and higher energy consumption for the same flow rate.",
+        "c": "The correct answer is “lower”. Reciprocating pumps generally have lower efficiency compared to centrifugal pumps due to their complex mechanism and higher energy consumption for the same flow rate.",
+        "d": "The correct answer is “lower”. Reciprocating pumps generally have lower efficiency compared to centrifugal pumps due to their complex mechanism and higher energy consumption for the same flow rate."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7) Which of the following are the beneficial effects of air vessel fitted to the delivery side of a reciprocating pump? <br> 1. Ensuring constant rate of discharge <br> 2. Reduction in power consumption <br> 3. Increase in discharge",
+        "answers": {
+        "a": "1 and 2",
+        "b": "2 and 3",
+        "c": "3 and 4",
+        "d": "4 and 5"
+      },
+      "explanations": {
+        "a": "The correct answer is “1 and 2”, i.e. ensuring constant rate of discharge and reduction in power consumption. An air vessel helps to smooth out the pulsations in the discharge flow and reduce the power required to drive the pump by storing and releasing energy.",
+        "b": "The correct answer is “1 and 2”, i.e. ensuring constant rate of discharge and reduction in power consumption. An air vessel helps to smooth out the pulsations in the discharge flow and reduce the power required to drive the pump by storing and releasing energy.",
+        "c": "The correct answer is “1 and 2”, i.e. ensuring constant rate of discharge and reduction in power consumption. An air vessel helps to smooth out the pulsations in the discharge flow and reduce the power required to drive the pump by storing and releasing energy.",
+        "d": "The correct answer is “1 and 2”, i.e. ensuring constant rate of discharge and reduction in power consumption. An air vessel helps to smooth out the pulsations in the discharge flow and reduce the power required to drive the pump by storing and releasing energy."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8) The <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> of a double acting reciprocating pump as compared to the single acting pump will almost be double.",
+      "answers": {
+        "a": "weight",
+        "b": "flow output",
+        "c": "head",
+        "d": "overall efficiency"
+      },
+      "explanations": {
+        "a": "The correct answer is “flow output”. A double-acting reciprocating pump pumps fluid during both the forward and backward strokes of the piston, effectively doubling the flow output compared to a single-acting pump.",
+        "b": "The correct answer is “flow output”. A double-acting reciprocating pump pumps fluid during both the forward and backward strokes of the piston, effectively doubling the flow output compared to a single-acting pump.",
+        "c": "The correct answer is “flow output”. A double-acting reciprocating pump pumps fluid during both the forward and backward strokes of the piston, effectively doubling the flow output compared to a single-acting pump.",
+        "d": "The correct answer is “flow output”. A double-acting reciprocating pump pumps fluid during both the forward and backward strokes of the piston, effectively doubling the flow output compared to a single-acting pump."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9) The typical work saved by fitting an air vessel to a single acting reciprocating pump is:",
+      "answers": {
+        "a": "30 %",
+        "b": "55 %",
+        "c": "72 %",
+        "d": "85 %"
+      },
+      "explanations": {
+        "a": "The correct answer is “85 %”. Fitting an air vessel to a single-acting reciprocating pump can save up to 85% of the work by reducing the fluctuations in pressure and flow, resulting in smoother operation and lower energy consumption.",
+        "b": "The correct answer is “85 %”. Fitting an air vessel to a single-acting reciprocating pump can save up to 85% of the work by reducing the fluctuations in pressure and flow, resulting in smoother operation and lower energy consumption.",
+        "c": "The correct answer is “85 %”. Fitting an air vessel to a single-acting reciprocating pump can save up to 85% of the work by reducing the fluctuations in pressure and flow, resulting in smoother operation and lower energy consumption.",
+        "d": "The correct answer is “85 %”. Fitting an air vessel to a single-acting reciprocating pump can save up to 85% of the work by reducing the fluctuations in pressure and flow, resulting in smoother operation and lower energy consumption."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10) The discharge of a double acting reciprocating pump is (where L = Length of stroke, A = Cross-sectional area of piston and N = Speed of crank in RPM):",
+      "answers": {
+        "a": "2LAN/60",
+        "b": "LAN/60",
+        "c": "LAN",
+        "d": "2LAN"
+      },
+      "explanations": {
+        "a": "The correct answer is “2LAN/60”. The discharge of a double-acting reciprocating pump is calculated based on the length of the stroke (L), the cross-sectional area of the piston (A), and the speed of the crank (N). The factor of 2 accounts for the double action, and dividing by 60 converts the RPM to flow rate per second.",
+        "b": "The correct answer is “2LAN/60”. The discharge of a double-acting reciprocating pump is calculated based on the length of the stroke (L), the cross-sectional area of the piston (A), and the speed of the crank (N). The factor of 2 accounts for the double action, and dividing by 60 converts the RPM to flow rate per second.",
+        "c": "The correct answer is “2LAN/60”. The discharge of a double-acting reciprocating pump is calculated based on the length of the stroke (L), the cross-sectional area of the piston (A), and the speed of the crank (N). The factor of 2 accounts for the double action, and dividing by 60 converts the RPM to flow rate per second.",
+        "d": "The correct answer is “2LAN/60”. The discharge of a double-acting reciprocating pump is calculated based on the length of the stroke (L), the cross-sectional area of the piston (A), and the speed of the crank (N). The factor of 2 accounts for the double action, and dividing by 60 converts the RPM to flow rate per second."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}

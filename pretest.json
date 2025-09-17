@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1) A reciprocating pump is used when there is:",
+      "answers": {
+        "a": "Low volume of liquid",
+        "b": "Volume of liquid is large",
+        "c": "Pumping high pressure",
+        "d": "Pumping low pressure"
+      },
+      "explanations": {
+        "a": "The correct answer is “Low volume of liquid”. Reciprocating pumps are designed for applications requiring precise and controlled flow rates. They are typically used when the volume of liquid to be pumped is relatively small, making them ideal for applications like dosing and metering.",
+        "b": "The correct answer is “Low volume of liquid”. Reciprocating pumps are designed for applications requiring precise and controlled flow rates. They are typically used when the volume of liquid to be pumped is relatively small, making them ideal for applications like dosing and metering.",
+        "c": "The correct answer is “Low volume of liquid”. Reciprocating pumps are designed for applications requiring precise and controlled flow rates. They are typically used when the volume of liquid to be pumped is relatively small, making them ideal for applications like dosing and metering.",
+        "d": "The correct answer is “Low volume of liquid”. Reciprocating pumps are designed for applications requiring precise and controlled flow rates. They are typically used when the volume of liquid to be pumped is relatively small, making them ideal for applications like dosing and metering."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2) Positive displacement pumps are also called as <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> pumps.",
+      "answers": {
+        "a": "constant volume",
+        "b": "constant heat flux",
+        "c": "constant pressure",
+        "d": "constant head"
+      },
+      "explanations": {
+        "a": "The correct answer is “constant pressure”. Positive displacement pumps deliver a consistent flow rate regardless of the pressure changes within the system. This characteristic allows them to maintain a constant pressure, making them suitable for applications where a steady pressure is critical.",
+        "b": "The correct answer is “constant pressure”. Positive displacement pumps deliver a consistent flow rate regardless of the pressure changes within the system. This characteristic allows them to maintain a constant pressure, making them suitable for applications where a steady pressure is critical.",
+        "c": "The correct answer is “constant pressure”. Positive displacement pumps deliver a consistent flow rate regardless of the pressure changes within the system. This characteristic allows them to maintain a constant pressure, making them suitable for applications where a steady pressure is critical.",
+        "d": "The correct answer is “constant pressure”. Positive displacement pumps deliver a consistent flow rate regardless of the pressure changes within the system. This characteristic allows them to maintain a constant pressure, making them suitable for applications where a steady pressure is critical."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3) Daily life example of single acting reciprocating pump is:",
+      "answers": {
+        "a": "Submersible pump",
+        "b": "Washing machine",
+        "c": "Bicycle tires",
+        "d": "Syringe"
+      },
+      "explanations": {
+        "a": "The correct answer is “Syringe”. A syringe operates on the principle of a single-acting reciprocating pump. When the plunger is pulled back, liquid is drawn into the barrel, and when the plunger is pushed forward, the liquid is expelled, similar to the operation of a single-acting reciprocating pump.",
+        "b": "The correct answer is “Syringe”. A syringe operates on the principle of a single-acting reciprocating pump. When the plunger is pulled back, liquid is drawn into the barrel, and when the plunger is pushed forward, the liquid is expelled, similar to the operation of a single-acting reciprocating pump.",
+        "c": "The correct answer is “Syringe”. A syringe operates on the principle of a single-acting reciprocating pump. When the plunger is pulled back, liquid is drawn into the barrel, and when the plunger is pushed forward, the liquid is expelled, similar to the operation of a single-acting reciprocating pump.",
+        "d": "The correct answer is “Syringe”. A syringe operates on the principle of a single-acting reciprocating pump. When the plunger is pulled back, liquid is drawn into the barrel, and when the plunger is pushed forward, the liquid is expelled, similar to the operation of a single-acting reciprocating pump."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4) Power operating pump in which both sides are engaged in fluid displacement is known as:",
+      "answers": {
+        "a": "Centrifugal pump",
+        "b": "Double acting pump",
+        "c": "Single acting pump",
+        "d": "Bicycle pump"
+      },
+      "explanations": {
+        "a": "The correct answer is “Double acting pump”. In a double-acting reciprocating pump, both sides of the piston are used for fluid displacement, allowing fluid to be pumped during both the forward and backward strokes, effectively doubling the pump's capacity compared to a single-acting pump.",
+        "b": "The correct answer is “Double acting pump”. In a double-acting reciprocating pump, both sides of the piston are used for fluid displacement, allowing fluid to be pumped during both the forward and backward strokes, effectively doubling the pump's capacity compared to a single-acting pump.",
+        "c": "The correct answer is “Double acting pump”. In a double-acting reciprocating pump, both sides of the piston are used for fluid displacement, allowing fluid to be pumped during both the forward and backward strokes, effectively doubling the pump's capacity compared to a single-acting pump.",
+        "d": "The correct answer is “Double acting pump”. In a double-acting reciprocating pump, both sides of the piston are used for fluid displacement, allowing fluid to be pumped during both the forward and backward strokes, effectively doubling the pump's capacity compared to a single-acting pump."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5) Power operated pump, in which one side is engaged in fluid displacement is known as:",
+      "answers": {
+        "a": "Submersible pump",
+        "b": "Single acting pump",
+        "c": "Double acting pump",
+        "d": "Compressor"
+      },
+      "explanations": {
+        "a": "The correct answer is “Single acting pump”. A single-acting reciprocating pump displaces fluid only during one direction of the piston movement, either during the forward or backward stroke, making it simpler but less efficient compared to a double-acting pump.",
+        "b": "The correct answer is “Single acting pump”. A single-acting reciprocating pump displaces fluid only during one direction of the piston movement, either during the forward or backward stroke, making it simpler but less efficient compared to a double-acting pump.",
+        "c": "The correct answer is “Single acting pump”. A single-acting reciprocating pump displaces fluid only during one direction of the piston movement, either during the forward or backward stroke, making it simpler but less efficient compared to a double-acting pump.",
+        "d": "The correct answer is “Single acting pump”. A single-acting reciprocating pump displaces fluid only during one direction of the piston movement, either during the forward or backward stroke, making it simpler but less efficient compared to a double-acting pump."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "6) When the piston moves forward, the liquid:",
+      "answers": {
+        "a": "Drawn into the cylinder",
+        "b": "Exits from the cylinder",
+        "c": "Enters the draft tube",
+        "d": "Exits the draft tube"
+      },
+      "explanations": {
+        "a": "The correct answer is “Draws into the cylinder”. In a reciprocating pump, when the piston moves forward, it creates a vacuum that allows liquid to be drawn into the cylinder from the suction side.",
+        "b": "The correct answer is “Draws into the cylinder”. In a reciprocating pump, when the piston moves forward, it creates a vacuum that allows liquid to be drawn into the cylinder from the suction side.",
+        "c": "The correct answer is “Draws into the cylinder”. In a reciprocating pump, when the piston moves forward, it creates a vacuum that allows liquid to be drawn into the cylinder from the suction side.",
+        "d": "The correct answer is “Draws into the cylinder”. In a reciprocating pump, when the piston moves forward, it creates a vacuum that allows liquid to be drawn into the cylinder from the suction side."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "7) Rotary motion of the motor is converted into translatory motion of the piston through:",
+      "answers": {
+        "a": "Plunger",
+        "b": "Crank",
+        "c": "Suction pipe",
+        "d": "Delivery pipe"
+      },
+      "explanations": {
+        "a": "The correct answer is “Crank”. The crank mechanism converts the rotary motion of the motor into the reciprocating (translatory) motion of the piston, which is essential for the pump's operation.",
+        "b": "The correct answer is “Crank”. The crank mechanism converts the rotary motion of the motor into the reciprocating (translatory) motion of the piston, which is essential for the pump's operation.",
+        "c": "The correct answer is “Crank”. The crank mechanism converts the rotary motion of the motor into the reciprocating (translatory) motion of the piston, which is essential for the pump's operation.",
+        "d": "The correct answer is “Crank”. The crank mechanism converts the rotary motion of the motor into the reciprocating (translatory) motion of the piston, which is essential for the pump's operation."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "8) Following are the advantages of reciprocating pumps:",
+      "answers": {
+        "a": "High Pressure",
+        "b": "Low volume applications",
+        "c": "Durability",
+        "d": "All of these"
+      },
+      "explanations": {
+        "a": "The correct answer is “All of these”. Reciprocating pumps can generate high pressures, are suitable for low volume applications, and are known for their durability and long service life.",
+        "b": "The correct answer is “All of these”. Reciprocating pumps can generate high pressures, are suitable for low volume applications, and are known for their durability and long service life.",
+        "c": "The correct answer is “All of these”. Reciprocating pumps can generate high pressures, are suitable for low volume applications, and are known for their durability and long service life.",
+        "d": "The correct answer is “All of these”. Reciprocating pumps can generate high pressures, are suitable for low volume applications, and are known for their durability and long service life."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "9) An up and down back and forth translatory motion is called:",
+      "answers": {
+        "a": "Reciprocation",
+        "b": "Rotation",
+        "c": "Filtration",
+        "d": "Excavation"
+      },
+      "explanations": {
+        "a": "The correct answer is “Reciprocation”. Reciprocation refers to the back and forth or up and down motion, which is a fundamental characteristic of reciprocating pumps.",
+        "b": "The correct answer is “Reciprocation”. Reciprocation refers to the back and forth or up and down motion, which is a fundamental characteristic of reciprocating pumps.",
+        "c": "The correct answer is “Reciprocation”. Reciprocation refers to the back and forth or up and down motion, which is a fundamental characteristic of reciprocating pumps.",
+        "d": "The correct answer is “Reciprocation”. Reciprocation refers to the back and forth or up and down motion, which is a fundamental characteristic of reciprocating pumps."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "10) Examples of reciprocating pumps include:",
+      "answers": {
+        "a": "Bicycle pump",
+        "b": "Hand pump",
+        "c": "Axial piston pump",
+        "d": "All of these"
+      },
+      "explanations": {
+        "a": "The correct answer is “All of these”. Reciprocating pumps come in various forms, including bicycle pumps, hand pumps, and axial piston pumps, all of which use the reciprocating motion to move fluid.",
+        "b": "The correct answer is “All of these”. Reciprocating pumps come in various forms, including bicycle pumps, hand pumps, and axial piston pumps, all of which use the reciprocating motion to move fluid.",
+        "c": "The correct answer is “All of these”. Reciprocating pumps come in various forms, including bicycle pumps, hand pumps, and axial piston pumps, all of which use the reciprocating motion to move fluid.",
+        "d": "The correct answer is “All of these”. Reciprocating pumps come in various forms, including bicycle pumps, hand pumps, and axial piston pumps, all of which use the reciprocating motion to move fluid."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}

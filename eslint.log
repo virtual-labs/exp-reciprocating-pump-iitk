@@ -1,0 +1,21 @@
+
+/home/runner/work/exp-reciprocating-pump-iitk/exp-reciprocating-pump-iitk/experiment/simulation/js/calculation.js
+   52:10  warning  'calculate' is defined but never used        no-unused-vars
+  121:10  warning  'checkYourResult' is defined but never used  no-unused-vars
+  379:7   warning  'confetti' is not defined                    no-undef
+  388:10  warning  'exportToExcel' is defined but never used    no-unused-vars
+  389:12  warning  'XLSX' is not defined                        no-undef
+  406:26  warning  'XLSX' is not defined                        no-undef
+  407:3   warning  'XLSX' is not defined                        no-undef
+  424:26  warning  'XLSX' is not defined                        no-undef
+  425:3   warning  'XLSX' is not defined                        no-undef
+  428:3   warning  'XLSX' is not defined                        no-undef
+
+/home/runner/work/exp-reciprocating-pump-iitk/exp-reciprocating-pump-iitk/experiment/simulation/js/main.js
+    6:5   warning  'svg' is assigned a value but never used            no-unused-vars
+   42:10  warning  'power' is defined but never used                   no-unused-vars
+  221:10  warning  'updateValvePositioning' is defined but never used  no-unused-vars
+  310:10  warning  'purzeAction' is defined but never used             no-unused-vars
+
+✖ 14 problems (0 errors, 14 warnings)
+
