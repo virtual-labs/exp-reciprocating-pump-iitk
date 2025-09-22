@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1) Amount of fluid that leaks from a higher-pressure discharge to a lower pressure discharge is called:",
+      "question": "“1.” Amount of fluid that leaks from a higher-pressure discharge to a lower pressure discharge is called:",
       "answers": {
         "a": "Air",
         "b": "Oil",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2) On which of following parameters the slip in a pump majorly depends?",
+      "question": "“2.” On which of following parameters the slip in a pump majorly depends?",
       "answers": {
         "a": "Pressure",
         "b": "Wear",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3) If slip exceeds 5 percent, the pumps needs to be:",
+      "question": "“3.” If slip exceeds 5 percent, the pumps needs to be:",
       "answers": {
         "a": "Dragged",
         "b": "Intermittent",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4) Maximum efficiency of reciprocating pump is:",
+      "question": "“4.” Maximum efficiency of reciprocating pump is:",
       "answers": {
         "a": "Up to 50 %",
         "b": "Up to 600 %",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5) For a good condition, slip should be:",
+      "question": "“5.” For a good condition, slip should be:",
       "answers": {
         "a": "Below 2 %",
         "b": "2 to 4 %",
@@ -87,7 +87,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "6) Reciprocating pumps have <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> efficiency compared to centrifugal pumps",
+      "question": "“6.” Reciprocating pumps have <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> efficiency compared to centrifugal pumps.",
       "answers": {
         "a": "equal",
         "b": "exponential",
@@ -104,7 +104,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "7) Which of the following are the beneficial effects of air vessel fitted to the delivery side of a reciprocating pump? <br> 1. Ensuring constant rate of discharge <br> 2. Reduction in power consumption <br> 3. Increase in discharge",
+      "question": "“7.” Which of the following are the beneficial effects of air vessel fitted to the delivery side of a reciprocating pump? <br> 1. Ensuring constant rate of discharge <br> 2. Reduction in power consumption <br> 3. Increase in discharge",
         "answers": {
         "a": "1 and 2",
         "b": "2 and 3",
@@ -121,7 +121,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "8) The <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> of a double acting reciprocating pump as compared to the single acting pump will almost be double.",
+      "question": "“8.” The <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> of a double acting reciprocating pump as compared to the single acting pump will almost be double.",
       "answers": {
         "a": "weight",
         "b": "flow output",
@@ -138,7 +138,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "9) The typical work saved by fitting an air vessel to a single acting reciprocating pump is:",
+      "question": "“9.” The typical work saved by fitting an air vessel to a single acting reciprocating pump is:",
       "answers": {
         "a": "30 %",
         "b": "55 %",
@@ -146,16 +146,16 @@
         "d": "85 %"
       },
       "explanations": {
-        "a": "The correct answer is “85 %”. Fitting an air vessel to a single-acting reciprocating pump can save up to 85% of the work by reducing the fluctuations in pressure and flow, resulting in smoother operation and lower energy consumption.",
-        "b": "The correct answer is “85 %”. Fitting an air vessel to a single-acting reciprocating pump can save up to 85% of the work by reducing the fluctuations in pressure and flow, resulting in smoother operation and lower energy consumption.",
-        "c": "The correct answer is “85 %”. Fitting an air vessel to a single-acting reciprocating pump can save up to 85% of the work by reducing the fluctuations in pressure and flow, resulting in smoother operation and lower energy consumption.",
-        "d": "The correct answer is “85 %”. Fitting an air vessel to a single-acting reciprocating pump can save up to 85% of the work by reducing the fluctuations in pressure and flow, resulting in smoother operation and lower energy consumption."
+        "a": "The correct answer is “85 %”. Fitting an air vessel to a single-acting reciprocating pump can save up to 85 % of the work by reducing the fluctuations in pressure and flow, resulting in smoother operation and lower energy consumption.",
+        "b": "The correct answer is “85 %”. Fitting an air vessel to a single-acting reciprocating pump can save up to 85 % of the work by reducing the fluctuations in pressure and flow, resulting in smoother operation and lower energy consumption.",
+        "c": "The correct answer is “85 %”. Fitting an air vessel to a single-acting reciprocating pump can save up to 85 % of the work by reducing the fluctuations in pressure and flow, resulting in smoother operation and lower energy consumption.",
+        "d": "The correct answer is “85 %”. Fitting an air vessel to a single-acting reciprocating pump can save up to 85 % of the work by reducing the fluctuations in pressure and flow, resulting in smoother operation and lower energy consumption."
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "10) The discharge of a double acting reciprocating pump is (where L = Length of stroke, A = Cross-sectional area of piston and N = Speed of crank in RPM):",
+      "question": "“10.” The discharge of a double acting reciprocating pump is (where L = Length of stroke, A = Cross-sectional area of piston and N = Speed of crank in RPM):",
       "answers": {
         "a": "2LAN/60",
         "b": "LAN/60",
