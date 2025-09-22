@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1) A reciprocating pump is used when there is:",
+      "question": "“1.” A reciprocating pump is used when there is:",
       "answers": {
         "a": "Low volume of liquid",
         "b": "Volume of liquid is large",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2) Positive displacement pumps are also called as <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> pumps.",
+      "question": "“2.” Positive displacement pumps are also called as <u>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</u> pumps.",
       "answers": {
         "a": "constant volume",
         "b": "constant heat flux",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3) Daily life example of single acting reciprocating pump is:",
+      "question": "“3.” Daily life example of single acting reciprocating pump is:",
       "answers": {
         "a": "Submersible pump",
         "b": "Washing machine",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4) Power operating pump in which both sides are engaged in fluid displacement is known as:",
+      "question": "“4.” Power operating pump in which both sides are engaged in fluid displacement is known as:",
       "answers": {
         "a": "Centrifugal pump",
         "b": "Double acting pump",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5) Power operated pump, in which one side is engaged in fluid displacement is known as:",
+      "question": "“5.” Power operated pump, in which one side is engaged in fluid displacement is known as:",
       "answers": {
         "a": "Submersible pump",
         "b": "Single acting pump",
@@ -87,9 +87,9 @@
       "difficulty": "beginner"
     },
     {
-      "question": "6) When the piston moves forward, the liquid:",
+      "question": "“6.” When the piston moves forward, the liquid:",
       "answers": {
-        "a": "Drawn into the cylinder",
+        "a": "Draws into the cylinder",
         "b": "Exits from the cylinder",
         "c": "Enters the draft tube",
         "d": "Exits the draft tube"
@@ -104,7 +104,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "7) Rotary motion of the motor is converted into translatory motion of the piston through:",
+      "question": "“7.” Rotary motion of the motor is converted into translatory motion of the piston through:",
       "answers": {
         "a": "Plunger",
         "b": "Crank",
@@ -121,7 +121,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "8) Following are the advantages of reciprocating pumps:",
+      "question": "“8.” Following are the advantages of reciprocating pumps:",
       "answers": {
         "a": "High Pressure",
         "b": "Low volume applications",
@@ -138,7 +138,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "9) An up and down back and forth translatory motion is called:",
+      "question": "“9.” An up and down back and forth translatory motion is called:",
       "answers": {
         "a": "Reciprocation",
         "b": "Rotation",
@@ -155,7 +155,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "10) Examples of reciprocating pumps include:",
+      "question": "“10.” Examples of reciprocating pumps include:",
       "answers": {
         "a": "Bicycle pump",
         "b": "Hand pump",
