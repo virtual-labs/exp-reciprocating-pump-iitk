@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.9.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" inkscape:version="1.2.2 (732a01da63, 2022-12-09)" sodipodi:docname="Reynold Number SVG 1.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1295 847.7"
+	 style="enable-background:new 0 0 1295 847.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{enable-background:new    ;}
+	.st1{fill:#005460;}
+	.st2{fill:#005D6B;}
+	.st3{fill:#808080;}
+	.st4{fill:#8F8F8F;}
+	.st5{fill:#E9E9E9;}
+	.st6{fill:#0098AE;}
+	.st7{fill:#8AE3FF;}
+	.st8{fill:#00554F;}
+	.st9{fill:#005F58;}
+	.st10{opacity:0.9;}
+	.st11{fill:#F1FF8D;stroke:#F1FFA1;stroke-width:3;stroke-miterlimit:10;}
+	.st12{fill:#8AE3FF;stroke:#000000;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#005F58;stroke-width:3;stroke-miterlimit:10;}
+	.st14{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st15{fill:#FFFFFF;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st16{font-family:'ArialMT';}
+	.st17{font-size:45.7156px;}
+	.st18{font-size:45px;}
+	.st19{font-family:'TimesNewRomanPS-BoldMT';}
+	.st20{font-size:32px;}
+	.st21{letter-spacing:25.9;}
+	.st22{font-size:19.7019px;}
+	.st23{font-size:47.7148px;}
+	.st24{fill:none;stroke:#23005F;stroke-width:0.75;stroke-miterlimit:10;}
+	.st25{fill:#FFFFFF;}
+	.st26{font-size:10.7074px;}
+	.st27{fill:#009FB4;}
+	.st28{fill:#D1D3D4;}
+	.st29{fill:#1A2D58;}
+	.st30{fill:#808285;}
+	.st31{fill:#CBCDCF;}
+	.st32{fill:#081835;}
+	.st33{fill:none;stroke:#231F20;stroke-width:1.8836;stroke-miterlimit:9.4182;}
+	.st34{fill:#828487;stroke:#FFFFFF;stroke-width:1.8836;stroke-miterlimit:9.4182;}
+	.st35{fill:#231F20;stroke:#000000;stroke-width:1.8836;stroke-miterlimit:9.4182;}
+	.st36{fill:none;stroke:#231F20;stroke-width:1.2499;stroke-miterlimit:6.2497;}
+	.st37{fill:#828487;stroke:#FFFFFF;stroke-width:1.2499;stroke-miterlimit:6.2497;}
+	.st38{fill:#231F20;stroke:#000000;stroke-width:1.2499;stroke-miterlimit:6.2497;}
+	.st39{display:none;fill:#8AE3FF;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="namedview1418" inkscape:current-layer="Layer_1" inkscape:cx="525.06792" inkscape:cy="403.29012" inkscape:deskcolor="#d1d1d1" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:showpageshadow="2" inkscape:window-height="991" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:zoom="0.94844873" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g id="g980">
+	<g id="g978">
+		<g id="g976">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="1067" height="118" id="image974" xlink:href="B5BEEBF3.png"  transform="matrix(0.999 0 0 0.999 185.5744 680.2949)">
+			</image>
+		</g>
+	</g>
+</g>
+<g id="g986">
+	<g id="g984">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="646" height="271" id="image982" xlink:href="B5BEEBF1.png"  transform="matrix(0.9981 0 0 0.9981 595.6044 503.8862)">
+		</image>
+	</g>
+</g>
+<g id="g992">
+	<g id="g990">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="88" height="511" id="image988" xlink:href="B5BEEBFE.png"  transform="matrix(0.4891 0 0 0.4891 222.0019 540.2811)">
+		</image>
+	</g>
+</g>
+<g id="g998">
+	<g id="g996">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="86" height="512" id="image994" xlink:href="B5BEEBFF.png"  transform="matrix(0.4885 0 0 0.4885 267.6013 488.3259)">
+		</image>
+	</g>
+</g>
+<g id="g1004">
+	<g id="g1002">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="88" height="512" id="image1000" xlink:href="B5BEEBF2.png"  transform="matrix(0.4881 0 0 0.4881 514.9359 488.4066)">
+		</image>
+	</g>
+</g>
+<g id="g1010">
+	<g id="g1008">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="88" height="512" id="image1006" xlink:href="B5BEEBF5.png"  transform="matrix(0.4881 0 0 0.4881 469.8518 541.2742)">
+		</image>
+	</g>
+</g>
+<g id="g1048">
+	<g id="g1046">
+		<g id="g1044" class="st0">
+			<g id="g1014">
+				<polygon id="polygon1012" class="st1" points="588,508 588,523.5 245.6,522.3 245.6,506.9 				"/>
+			</g>
+			<g id="g1018">
+				<polygon id="polygon1016" class="st2" points="245.6,506.9 245.6,522.3 188.4,589.7 188.4,574.2 				"/>
+			</g>
+			<g id="g1022">
+				<polygon id="polygon1020" class="st3" points="530.7,575.4 530.7,590.8 188.4,589.7 188.4,574.2 				"/>
+			</g>
+			<g id="g1026">
+				<polygon id="polygon1024" class="st4" points="588,508 588,523.5 530.7,590.8 530.7,575.4 				"/>
+			</g>
+			<g id="g1030">
+				<polygon id="polygon1028" class="st5" points="245.6,506.9 588,508 530.7,575.4 188.4,574.2 				"/>
+			</g>
+			<g id="g1034">
+				<polygon id="polygon1032" class="st1" points="531.2,576.3 531.2,591.8 186.3,590.6 186.3,575.1 				"/>
+			</g>
+			<g id="g1038">
+				<polygon id="polygon1036" class="st2" points="590.1,507.1 590.1,522.5 531.2,591.8 531.2,576.3 				"/>
+			</g>
+			<g id="g1042">
+				<path id="path1040" class="st6" d="M245.1,505.9l344.9,1.2l-58.9,69.2l-344.9-1.2L245.1,505.9z M530.7,575.4l57.2-67.3
+					l-342.4-1.2l-57.2,67.3L530.7,575.4"/>
+			</g>
+		</g>
+	</g>
+</g>
+<polygon id="Water_Tank_Base" class="st7" points="530.5,576.7 188.2,574.9 245.8,507.2 588.1,508.9 "/>
+<g id="g1087">
+	<g id="g1085">
+		<g id="g1083" class="st0">
+			<g id="g1053">
+				<polygon id="polygon1051" class="st8" points="245,321.1 590,322.3 590,507.7 245,506.5 				"/>
+			</g>
+			<g id="g1057">
+				<polygon id="polygon1055" class="st8" points="587.9,323.2 587.9,508.6 245.5,507.5 245.5,322 				"/>
+			</g>
+			<g id="g1061">
+				<polygon id="polygon1059" class="st3" points="245.5,322 587.9,323.2 587.9,508.6 245.5,507.5 				"/>
+			</g>
+			<g id="g1065">
+				<polygon id="polygon1063" class="st9" points="186.2,390.3 245,321.1 245,506.5 186.2,575.7 				"/>
+			</g>
+			<g id="g1069">
+				<polygon id="polygon1067" class="st9" points="245.5,322 245.5,507.5 188.3,574.8 188.3,389.4 				"/>
+			</g>
+			<g id="g1073">
+				<polygon id="polygon1071" class="st4" points="188.3,389.4 245.5,322 245.5,507.5 188.3,574.8 				"/>
+			</g>
+			<g id="g1077">
+				<polygon id="polygon1075" class="st9" points="530.6,390.6 587.9,323.2 587.9,508.6 530.6,576 				"/>
+			</g>
+			<g id="g1081">
+				<polygon id="polygon1079" class="st4" points="587.9,323.2 587.9,508.6 530.6,576 530.6,390.6 				"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g id="g1093">
+	<g id="g1091">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="509" height="153" id="image1089" xlink:href="C70F2020.png"  transform="matrix(0.1965 0 0 0.1965 591.0237 495.538)">
+		</image>
+	</g>
+</g>
+<g id="g1099" class="st10">
+	<g id="g1097">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="512" height="128" id="image1095" xlink:href="C70F202F.png"  transform="matrix(0.6774 0 0 0.6774 893.2593 503.8959)">
+		</image>
+	</g>
+</g>
+<g id="g1105">
+	<g id="g1103">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="54" height="511" id="image1101" xlink:href="C52FA6DB.png"  transform="matrix(0.5752 0 0 0.3689 997.9247 217.2723)">
+		</image>
+	</g>
+</g>
+<g id="g1111">
+	<g id="g1109">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="513" height="43" id="image1107" xlink:href="C52FA6DD.png"  transform="matrix(1.4318 0 0 0.6978 278.412 202.8737)">
+		</image>
+	</g>
+</g>
+<g id="g1117">
+	<g id="g1115">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="209" height="510" id="image1113" xlink:href="C52FA74A.png"  transform="matrix(0.1416 0 0 0.1078 998.6578 521.5599)">
+		</image>
+	</g>
+</g>
+<g id="g1123">
+	<g id="g1121">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="212" height="510" id="image1119" xlink:href="C52FA74F.png"  transform="matrix(0.1413 0 0 0.1413 676.5494 510.5391)">
+		</image>
+	</g>
+</g>
+<rect id="Water_1" x="1004" y="519.8" class="st7" width="19.6" height="51.7"/>
+<rect id="Water_9" x="681.6" y="521.8" class="st7" width="19.6" height="56.8"/>
+<rect id="Water_3" x="1004.7" y="228.2" class="st7" width="19.6" height="175.2"/>
+<rect id="Water_4" x="936" y="208.2" class="st7" width="77.5" height="19.6"/>
+<rect id="Water_8" x="594.6" y="501" class="st7" width="87.2" height="19.6"/>
+<circle id="Tank_Empty_Corner" class="st11" cx="687.8" cy="514.5" r="17.4"/>
+<rect id="Water_6" x="301" y="208.6" class="st7" width="617" height="19.6"/>
+<circle id="Corner_Top_Right" class="st11" cx="1013.5" cy="221.9" r="17.4"/>
+<ellipse id="Suction_Pipe_Opening" class="st7" cx="1013.8" cy="571.7" rx="9.8" ry="3"/>
+<ellipse id="Tank_Empty_End" class="st7" cx="691.5" cy="578.5" rx="9.8" ry="3"/>
+<polygon id="Tank_Water_Back" class="st7" points="245.1,398.1 587.9,399 587.9,508.1 245.1,508.1 "/>
+<g id="g1138">
+	<polygon id="polygon1136" class="st1" points="590.1,322.1 590.1,507.5 531.2,576.7 531.2,391.3 	"/>
+</g>
+<g id="Tank_Empty_Control">
+	<g id="g1144">
+		<g id="g1142">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="412" height="508" id="image1140" xlink:href="C52FA7C7.png"  transform="matrix(9.887402e-02 0 0 9.887402e-02 557.2469 485.3879)">
+			</image>
+		</g>
+	</g>
+	<g id="g1150">
+		<g id="g1148">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="168" height="503" id="image1146" xlink:href="C52FA7CF.png"  transform="matrix(3.819093e-02 0 0 3.819093e-02 574.4069 471.5281)">
+			</image>
+		</g>
+	</g>
+	<g id="g1156">
+		<g id="g1154">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="503" height="188" id="image1152" xlink:href="C52FA7C1.png"  transform="matrix(8.546718e-02 0 0 8.546718e-02 556.1201 465.6205)">
+			</image>
+		</g>
+	</g>
+</g>
+<g id="Tank_Empty_Control_00000000920067168395717810000001351023711700812424_">
+	<g id="g1163">
+		<g id="g1161">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="412" height="508" id="image1159" xlink:href="C52FA7C7.png"  transform="matrix(9.887402e-02 0 0 9.887402e-02 909.639 193.3863)">
+			</image>
+		</g>
+	</g>
+	<g id="g1169">
+		<g id="g1167">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="168" height="503" id="image1165" xlink:href="C52FA7CF.png"  transform="matrix(3.819093e-02 0 0 3.819093e-02 926.799 179.5265)">
+			</image>
+		</g>
+	</g>
+	<g id="g1175">
+		<g id="g1173">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="503" height="188" id="image1171" xlink:href="C52FA7C1.png"  transform="matrix(8.546718e-02 0 0 8.546718e-02 908.5121 173.6189)">
+			</image>
+		</g>
+	</g>
+</g>
+<polygon id="Tank_Water_Left" class="st7" points="245.2,506.9 187.2,577.5 187.2,467.5 244.8,396.9 "/>
+<g id="g1183">
+	<g id="g1181">
+		
+			<image style="overflow:visible;enable-background:new    ;" width="99" height="512" id="image1179" xlink:href="C70F2021.png"  transform="matrix(0.3085 0 0 0.3085 267.6958 219.7682)">
+		</image>
+	</g>
+</g>
+<rect id="Water_7" x="273.2" y="230.4" class="st7" width="19.6" height="297.1"/>
+<rect id="Tank_Water_Front" x="187.2" y="467.5" class="st12" width="344.8" height="110"/>
+<circle id="Corner_Top_Left" class="st11" cx="287" cy="221" r="17.4"/>
+<line id="line1188" class="st13" x1="531.8" y1="392.3" x2="187.4" y2="391.3"/>
+<g id="g1198">
+	<g id="g1194">
+		<g id="g1192">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="513" height="238" id="image1190" xlink:href="C52FA7C2.png"  transform="matrix(0.4361 0 0 0.4361 22.5491 211.7993)">
+			</image>
+		</g>
+	</g>
+	<path id="path1196" class="st14" d="M208.4,301.4H55c-10.2,0-18.4-8.2-18.4-18.4v-29.5c0-10.2,8.2-18.4,18.4-18.4h153.4
+		c10.2,0,18.4,8.2,18.4,18.4V283C226.8,293.2,218.6,301.4,208.4,301.4z"/>
+</g>
+<g id="g1208">
+	<g id="g1204">
+		<g id="g1202">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="513" height="284" id="image1200" xlink:href="C52FA7C3.png"  transform="matrix(0.2182 0 0 0.2764 1055.889 131.8037)">
+			</image>
+		</g>
+	</g>
+	<path id="path1206" class="st15" d="M1137,203.2h-55.4c-8.4,0-15.2-8.6-15.2-19.3v-18.4c0-10.6,6.8-19.3,15.2-19.3h55.4
+		c8.4,0,15.2,8.6,15.2,19.3v18.4C1152.2,194.5,1145.4,203.2,1137,203.2z"/>
+</g>
+<text id="text1210" transform="matrix(0.945 0 0 1 44.3584 275.4863)" class="st16 st17">00</text>
+<text id="text1212" transform="matrix(1.0432 0 0 1 1095.6201 190.4902)" class="st16 st18">0</text>
+<text id="text1214" transform="matrix(1.0432 0 0 1 1036.8877 74.6123)" class="st19 st20 st21"> </text>
+<text id="text1216" transform="matrix(1.0432 0 0 1 1074.4434 74.6123)" class="st19 st20">Valve </text>
+<text id="text1218" transform="matrix(1.0432 0 0 1 1036.8877 113.0117)" class="st19 st20">Positioning</text>
+<text id="text1220" transform="matrix(1.0432 0 0 1 644.5264 393.6006)" class="st19 st20 st21"> </text>
+<text transform="matrix(1.0432 0 0 1 656.7871 422.6006)" class="st19 st20">Gate</text>
+<text transform="matrix(1.0432 0 0 1 646.1465 461.0005)" class="st19 st20">Valve </text>
+<text id="text1228" transform="matrix(1.0397 0 0 1 89.9434 197.7368)" class="st19 st20">Timer</text>
+<text id="text1230" transform="matrix(0.945 0 0 1 111.4229 275.1348)" class="st16 st17">00</text>
+<text id="text1232" transform="matrix(0.945 0 0 1 175.8916 275.9883)" class="st16 st17">00</text>
+<text id="text1234" transform="matrix(0.8527 0 0 1 53.3506 293.6123)" class="st16 st22">min</text>
+<text id="text1236" transform="matrix(0.8527 0 0 1 121.7041 292.7588)" class="st16 st22">sec</text>
+<text id="text1238" transform="matrix(0.8527 0 0 1 188.915 292.7588)" class="st16 st22">ms</text>
+<text id="text1240" transform="matrix(0.945 0 0 1 96.8105 271.7178)" class="st16 st23">:</text>
+<text id="text1242" transform="matrix(0.945 0 0 1 160.4326 271.3887)" class="st16 st23">:</text>
+<path id="path1244" class="st24" d="M56.1,481.5"/>
+<path id="path1246" class="st24" d="M55.8,492.4"/>
+<path id="path1248" class="st24" d="M55.8,503.7"/>
+<path id="path1250" class="st24" d="M55.8,515.4"/>
+<g id="g1308">
+	<line id="line1252" class="st24" x1="125.4" y1="532.9" x2="195.7" y2="532.9"/>
+	<line id="line1254" class="st24" x1="125.4" y1="543.5" x2="195.7" y2="543.5"/>
+	<line id="line1256" class="st24" x1="125.4" y1="555.2" x2="195.7" y2="555.2"/>
+	<line id="line1258" class="st24" x1="125.4" y1="566.9" x2="195.7" y2="566.9"/>
+	<polyline id="polyline1260" class="st24" points="195.4,577.6 125.6,577.6 125.6,451.3 	"/>
+	<path id="path1262" class="st24" d="M195.4,451.3"/>
+	<line id="line1264" class="st24" x1="125.4" y1="467.5" x2="195.7" y2="467.5"/>
+	<path id="path1266" class="st24" d="M196,466.6"/>
+	<line id="line1268" class="st24" x1="125.4" y1="478.3" x2="195.7" y2="478.3"/>
+	<path id="path1270" class="st24" d="M195.7,477.6"/>
+	<line id="line1272" class="st24" x1="125.4" y1="489.3" x2="195.7" y2="489.3"/>
+	<path id="path1274" class="st24" d="M195.7,488.8"/>
+	<line id="line1276" class="st24" x1="125.4" y1="500.9" x2="195.7" y2="500.9"/>
+	<path id="path1278" class="st24" d="M195.7,500.5"/>
+	<line id="line1280" class="st24" x1="125.4" y1="511.6" x2="195.7" y2="511.6"/>
+	<line id="line1282" class="st24" x1="125.4" y1="522.2" x2="195.7" y2="522.2"/>
+	<rect id="rect1284" x="122.9" y="447.5" class="st25" width="52.9" height="131.7"/>
+	<text id="text1286" transform="matrix(1.2422 0 0 1 157.3359 571.1006)" class="st16 st26">1</text>
+	<text id="text1288" transform="matrix(1.2422 0 0 1 157.4961 582.2939)" class="st16 st26">0</text>
+	<text id="text1290" transform="matrix(1.2422 0 0 1 157.3359 559.2266)" class="st16 st26">2</text>
+	<text id="text1292" transform="matrix(1.2422 0 0 1 157.3359 547.5635)" class="st16 st26">3</text>
+	<text id="text1294" transform="matrix(1.2422 0 0 1 157.3359 536.084)" class="st16 st26">4</text>
+	<text id="text1296" transform="matrix(1.2422 0 0 1 157.3359 525.9385)" class="st16 st26">5</text>
+	<text id="text1298" transform="matrix(1.2422 0 0 1 157.3359 515.3242)" class="st16 st26">6</text>
+	<text id="text1300" transform="matrix(1.2422 0 0 1 157.3359 505.1426)" class="st16 st26">7</text>
+	<text id="text1302" transform="matrix(1.2422 0 0 1 157.3359 493.5322)" class="st16 st26">8</text>
+	<text id="text1304" transform="matrix(1.2422 0 0 1 157.3359 482.374)" class="st16 st26">9</text>
+	<text id="text1306" transform="matrix(1.2422 0 0 1 153.3359 471.2979)" class="st16 st26">10</text>
+</g>
+<g id="g1314">
+	<rect id="rect1310" x="127.7" y="577.7" width="15.8" height="3.2"/>
+	<polyline id="polyline1312" points="143.5,573.3 151.6,579.3 143.5,585.3 	"/>
+</g>
+<g id="g1320">
+	
+		<rect id="rect1316" x="608.9" y="455.6" transform="matrix(0.4766 -0.8791 0.8791 0.4766 -76.0927 790.0648)" width="33.1" height="6.7"/>
+	<polyline id="polyline1318" points="628.6,479.5 609.5,488.4 606.5,467.5 	"/>
+</g>
+<g id="g1326">
+	
+		<rect id="rect1322" x="962.3" y="138.6" transform="matrix(0.4829 -0.8757 0.8757 0.4829 381.8442 930.5343)" width="33.1" height="6.7"/>
+	<polyline id="polyline1324" points="981.8,162.5 962.6,171.3 959.8,150.4 	"/>
+</g>
+<g id="g1332">
+	<rect id="rect1328" x="1012.9" y="356.8" class="st27" width="3.2" height="15.8"/>
+	<polyline id="polyline1330" class="st27" points="1008.5,356.8 1014.5,348.6 1020.5,356.8 	"/>
+</g>
+<g id="g1338">
+	<rect id="rect1334" x="1012.9" y="273.8" class="st27" width="3.2" height="15.8"/>
+	<polyline id="polyline1336" class="st27" points="1008.5,273.8 1014.5,265.6 1020.5,273.8 	"/>
+</g>
+<g id="g1344">
+	<rect id="rect1340" x="557" y="216.5" class="st27" width="15.8" height="3.2"/>
+	<polyline id="polyline1342" class="st27" points="557.1,224.1 548.9,218.1 557.1,212 	"/>
+</g>
+<g id="g1350">
+	<rect id="rect1346" x="655.4" y="216.5" class="st27" width="15.8" height="3.2"/>
+	<polyline id="polyline1348" class="st27" points="655.5,224.1 647.3,218.1 655.5,212 	"/>
+</g>
+<g id="g1356">
+	<rect id="rect1352" x="765.1" y="216.5" class="st27" width="15.8" height="3.2"/>
+	<polyline id="polyline1354" class="st27" points="765.2,224.1 757,218.1 765.2,212 	"/>
+</g>
+<g id="g1362">
+	<rect id="rect1358" x="866.4" y="216.1" class="st27" width="15.8" height="3.2"/>
+	<polyline id="polyline1360" class="st27" points="866.4,223.7 858.2,217.7 866.4,211.7 	"/>
+</g>
+<g id="g1368">
+	<rect id="rect1364" x="468" y="216.5" class="st27" width="15.8" height="3.2"/>
+	<polyline id="polyline1366" class="st27" points="468.1,224.1 459.9,218.1 468.1,212 	"/>
+</g>
+<g id="g1374">
+	<rect id="rect1370" x="379" y="216.5" class="st27" width="15.8" height="3.2"/>
+	<polyline id="polyline1372" class="st27" points="379.1,224.1 370.9,218.1 379.1,212 	"/>
+</g>
+<g id="g1380">
+	<rect id="rect1376" x="281.5" y="270.8" class="st27" width="3.2" height="15.8"/>
+	<polyline id="polyline1378" class="st27" points="289,286.5 283,294.7 277,286.5 	"/>
+</g>
+<rect id="rect1382" x="1004.4" y="421.7" class="st28" width="19.2" height="76.3"/>
+<polygon id="polygon1384" class="st29" points="998.4,484 991.1,480.1 991.1,440.3 998.4,436.4 "/>
+<path id="path1386" class="st30" d="M1023.6,498L1023.6,498v-76.3l0,0c3.6,0,6.4,2.9,6.4,6.4v63.5
+	C1030.1,495.1,1027.2,498,1023.6,498z"/>
+<path id="path1388" class="st30" d="M1004.4,498L1004.4,498c-3.6,0-6.4-2.9-6.4-6.4v-63.5c0-3.6,2.9-6.4,6.4-6.4l0,0V498z"/>
+<rect id="rect1390" x="1006.3" y="409.5" class="st31" width="15.3" height="12.3"/>
+<rect id="rect1392" x="1006.3" y="497.9" class="st31" width="15.3" height="12.3"/>
+<rect id="rect1394" x="997.1" y="395.8" class="st32" width="32.9" height="17"/>
+<rect id="rect1396" x="1030.1" y="435.9" class="st32" width="17" height="47.8"/>
+<rect id="rect1398" x="997.1" y="508.3" class="st32" width="32.9" height="17"/>
+<rect id="rect1404" x="1095.4" y="532.3" class="st32" width="94.4" height="7.2"/>
+<path id="path1406" class="st29" d="M1189.7,532.3l-94.3-0.1c3.3-0.2,14.6-1.1,24.4-10.1c7.5-6.9,10.1-15,11.1-18.5c8,0,16,0,24,0
+	c0.8,3.6,3,10.6,9,16.9C1173.8,531.1,1186.6,532.1,1189.7,532.3z"/>
+<g id="Pressure_Reading_00000111184780983431388460000002775983700805789587_" transform="matrix(0.94182178,0,0,0.94182178,774.7124,196.3983)">
+	<g id="g2302">
+		<g id="g2300">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="506" height="139" id="image2298" xlink:href="../Pelton Wheel Exp/B789F01C.png"  transform="matrix(0.1008 0 0 0.1008 205.0417 124.725)">
+			</image>
+		</g>
+	</g>
+	<g id="Fringe_2_00000042014325308729414950000005236994895868405951_">
+		<g id="g2306">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="328" height="505" id="image2304" xlink:href="C52FA757.png"  transform="matrix(-5.787437e-02 0 0 -5.787437e-02 214.4592 146.3445)">
+			</image>
+		</g>
+	</g>
+	<g id="g2313">
+		<g id="g2311">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="288" height="508" id="image2309" xlink:href="../Pelton Wheel Exp/B789F02A.png"  transform="matrix(5.909137e-02 0 0 5.909137e-02 191.5551 116.722)">
+			</image>
+		</g>
+	</g>
+	<g id="g2319">
+		<g id="g2317">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="509" height="92" id="image2315" xlink:href="../Pelton Wheel Exp/B789F02B.png"  transform="matrix(0.1514 0 0 0.1514 123.0523 124.7689)">
+			</image>
+		</g>
+	</g>
+	<g id="Pressure_Gauge_00000023987907149340359200000017337667907549501364_">
+		<g id="g2325">
+			<g id="g2323">
+				
+					<image style="overflow:visible;enable-background:new    ;" width="505" height="511" id="image2321" xlink:href="../Pelton Wheel Exp/B789F066.png"  transform="matrix(8.774592e-18 -0.1433 0.1433 8.774592e-18 56.4106 167.535)">
+				</image>
+			</g>
+		</g>
+		<g id="g2331">
+			<g id="g2329">
+				
+					<image style="overflow:visible;enable-background:new    ;" width="510" height="478" id="image2327" xlink:href="../Pelton Wheel Exp/B789F079.png"  transform="matrix(1.058707e-17 -0.1729 0.1729 1.058707e-17 51.337 175.8118)">
+				</image>
+			</g>
+		</g>
+		<g id="g2365">
+			<line id="line2333" class="st33" x1="92.3" y1="99.8" x2="92.3" y2="106.2"/>
+			<line id="line2335" class="st33" x1="102.8" y1="101.4" x2="100.9" y2="107.5"/>
+			<line id="line2337" class="st33" x1="112.1" y1="106" x2="108.3" y2="111.2"/>
+			<line id="line2339" class="st33" x1="119.3" y1="113.1" x2="114.2" y2="117"/>
+			<line id="line2341" class="st33" x1="124.1" y1="122" x2="118" y2="124.1"/>
+			<line id="line2343" class="st33" x1="125.8" y1="132.4" x2="119.3" y2="132.4"/>
+			<line id="line2345" class="st33" x1="124.1" y1="142.6" x2="118" y2="140.5"/>
+			<line id="line2347" class="st33" x1="119.3" y1="151.6" x2="114.1" y2="147.7"/>
+			<line id="line2349" class="st33" x1="112.1" y1="158.6" x2="108.3" y2="153.3"/>
+			<line id="line2351" class="st33" x1="102.9" y1="163.2" x2="100.9" y2="157.1"/>
+			<line id="line2353" class="st33" x1="92.3" y1="164.9" x2="92.3" y2="158.3"/>
+			<line id="line2355" class="st33" x1="81.8" y1="163.2" x2="83.8" y2="157"/>
+			<line id="line2357" class="st33" x1="72.6" y1="158.7" x2="76.3" y2="153.3"/>
+			<line id="line2359" class="st33" x1="65.3" y1="151.6" x2="70.5" y2="147.7"/>
+			<line id="line2361" class="st33" x1="60.5" y1="142.6" x2="66.8" y2="140.5"/>
+			<line id="line2363" class="st33" x1="58.8" y1="132.4" x2="65.4" y2="132.4"/>
+		</g>
+		<g id="g2381">
+			<line id="line2367" class="st33" x1="92.3" y1="99.8" x2="92.3" y2="106.2"/>
+			<line id="line2369" class="st33" x1="83.5" y1="100.9" x2="85.1" y2="107.1"/>
+			<line id="line2371" class="st33" x1="75.5" y1="104.2" x2="78.7" y2="109.8"/>
+			<line id="line2373" class="st33" x1="68.7" y1="109.2" x2="73.2" y2="113.9"/>
+			<line id="line2375" class="st33" x1="63.4" y1="115.8" x2="69" y2="119.2"/>
+			<line id="line2377" class="st33" x1="60" y1="123.6" x2="66.3" y2="125.4"/>
+			<line id="line2379" class="st33" x1="58.8" y1="132.4" x2="65.4" y2="132.4"/>
+		</g>
+		<polygon id="polygon2383" class="st34" points="101.7,147.3 108.7,148.8 107,141.8 105.2,143.7 93,131.5 91.2,133.4 103.3,145.6 
+					"/>
+		<circle id="circle2385" class="st35" cx="92.1" cy="132.4" r="3.4"/>
+	</g>
+</g>
+<path id="circle2822" class="st11" d="M1012.6,304.9c-7.9,0-14.4,6.4-14.4,14.4c0,0,0,0,0,0c0,7.9,6.4,14.4,14.4,14.4
+	c7.9,0,14.4-6.4,14.4-14.4C1027,311.3,1020.6,304.9,1012.6,304.9L1012.6,304.9z"/>
+<g id="g2918" transform="matrix(0.62497289,0,0,0.62497289,850.6217,469.05631)">
+	<g id="g2830">
+		<g id="g2828">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="506" height="139" id="image2826" xlink:href="../Pelton Wheel Exp/B789F01C.png"  transform="matrix(0.1008 0 0 0.1008 205.0417 124.725)">
+			</image>
+		</g>
+	</g>
+	<g id="g2836">
+		<g id="g2834">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="328" height="505" id="image2832" xlink:href="C52FA757.png"  transform="matrix(-5.787438e-02 0 0 -5.787438e-02 214.4593 146.3445)">
+			</image>
+		</g>
+	</g>
+	<g id="g2842">
+		<g id="g2840">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="288" height="508" id="image2838" xlink:href="../Pelton Wheel Exp/B789F02A.png"  transform="matrix(5.909138e-02 0 0 5.909138e-02 191.5551 116.722)">
+			</image>
+		</g>
+	</g>
+	<g id="g2848">
+		<g id="g2846">
+			
+				<image style="overflow:visible;enable-background:new    ;" width="509" height="92" id="image2844" xlink:href="../Pelton Wheel Exp/B789F02B.png"  transform="matrix(0.1514 0 0 0.1514 123.0523 124.7689)">
+			</image>
+		</g>
+	</g>
+	<g id="g2916">
+		<g id="g2854">
+			<g id="g2852">
+				
+					<image style="overflow:visible;enable-background:new    ;" width="505" height="511" id="image2850" xlink:href="../Pelton Wheel Exp/B789F066.png"  transform="matrix(8.774592e-18 -0.1433 0.1433 8.774592e-18 56.4106 167.5351)">
+				</image>
+			</g>
+		</g>
+		<g id="g2860">
+			<g id="g2858">
+				
+					<image style="overflow:visible;enable-background:new    ;" width="510" height="478" id="image2856" xlink:href="../Pelton Wheel Exp/B789F079.png"  transform="matrix(1.058707e-17 -0.1729 0.1729 1.058707e-17 51.337 175.8118)">
+				</image>
+			</g>
+		</g>
+		<g id="g2894">
+			<line id="line2862" class="st36" x1="92.3" y1="99.8" x2="92.3" y2="106.2"/>
+			<line id="line2864" class="st36" x1="102.8" y1="101.4" x2="100.9" y2="107.5"/>
+			<line id="line2866" class="st36" x1="112.1" y1="106" x2="108.3" y2="111.2"/>
+			<line id="line2868" class="st36" x1="119.3" y1="113.1" x2="114.2" y2="117"/>
+			<line id="line2870" class="st36" x1="124.1" y1="122" x2="118" y2="124.1"/>
+			<line id="line2872" class="st36" x1="125.8" y1="132.4" x2="119.3" y2="132.4"/>
+			<line id="line2874" class="st36" x1="124.1" y1="142.6" x2="118" y2="140.5"/>
+			<line id="line2876" class="st36" x1="119.3" y1="151.6" x2="114.1" y2="147.7"/>
+			<line id="line2878" class="st36" x1="112.1" y1="158.6" x2="108.3" y2="153.3"/>
+			<line id="line2880" class="st36" x1="102.9" y1="163.2" x2="100.9" y2="157.1"/>
+			<line id="line2882" class="st36" x1="92.3" y1="164.9" x2="92.3" y2="158.3"/>
+			<line id="line2884" class="st36" x1="81.8" y1="163.2" x2="83.8" y2="157"/>
+			<line id="line2886" class="st36" x1="72.6" y1="158.7" x2="76.3" y2="153.3"/>
+			<line id="line2888" class="st36" x1="65.3" y1="151.6" x2="70.5" y2="147.7"/>
+			<line id="line2890" class="st36" x1="60.5" y1="142.6" x2="66.8" y2="140.5"/>
+			<line id="line2892" class="st36" x1="58.8" y1="132.4" x2="65.4" y2="132.4"/>
+		</g>
+		<g id="g2910">
+			<line id="line2896" class="st36" x1="92.3" y1="99.8" x2="92.3" y2="106.2"/>
+			<line id="line2898" class="st36" x1="83.5" y1="100.9" x2="85.1" y2="107.1"/>
+			<line id="line2900" class="st36" x1="75.5" y1="104.2" x2="78.7" y2="109.8"/>
+			<line id="line2902" class="st36" x1="68.7" y1="109.2" x2="73.2" y2="113.9"/>
+			<line id="line2904" class="st36" x1="63.4" y1="115.8" x2="69" y2="119.2"/>
+			<line id="line2906" class="st36" x1="60" y1="123.6" x2="66.3" y2="125.4"/>
+			<line id="line2908" class="st36" x1="58.8" y1="132.4" x2="65.4" y2="132.4"/>
+		</g>
+		<polygon id="polygon2912" class="st37" points="105.2,143.7 93,131.5 91.2,133.4 103.3,145.6 101.7,147.3 108.7,148.8 107,141.8 
+					"/>
+		<circle id="circle2914" class="st38" cx="92.1" cy="132.4" r="3.4"/>
+	</g>
+</g>
+<path id="path2920" class="st11" d="M1013.2,537.1c-7.4,0-13.4,6-13.4,13.4c0,0,0,0,0,0c0,7.4,6,13.4,13.4,13.4
+	c7.4,0,13.4-6,13.4-13.4C1026.7,543.1,1020.7,537.1,1013.2,537.1z"/>
+<g>
+	<g>
+		<image style="overflow:visible;" width="104" height="89" xlink:href="1D48A994.png"  transform="matrix(1 0 0 1 1044.2426 415)">
+		</image>
+	</g>
+</g>
+<path class="st7" d="M1088.2,497.1h-10.4c-15,0-27.2-12.2-27.2-27.2V449c0-15,12.2-27.2,27.2-27.2h10.4V497.1z"/>
+<rect x="1088.2" y="421.9" class="st39" width="52.6" height="75.3"/>
+<g>
+	<g>
+		<g>
+			
+				<image style="overflow:visible;" width="512" height="87" xlink:href="1D48A993.png"  transform="matrix(0.1035 0 0 0.1035 1093.9021 454.8912)">
+			</image>
+		</g>
+	</g>
+	<g>
+		<g>
+			
+				<image style="overflow:visible;" width="75" height="512" xlink:href="1D48A99C.png"  transform="matrix(0.1738 0 0 0.1738 1086.2284 414.9)">
+			</image>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		
+			<image style="overflow:visible;" width="386" height="512" xlink:href="1D48A99F.png"  transform="matrix(0.1738 0 0 0.1738 1147.1084 414.8941)">
+		</image>
+	</g>
+</g>
+<g>
+	<rect id="rect1402" x="1170.1" y="429.1" class="st32" width="29.1" height="7.4"/>
+	<rect id="rect1408" x="1170.1" y="443" class="st32" width="29.1" height="7.4"/>
+	<rect id="rect1410" x="1170.1" y="457.1" class="st32" width="29.1" height="7.4"/>
+	<rect id="rect1412" x="1170.1" y="470.5" class="st32" width="29.1" height="7.4"/>
+	<rect id="rect1414" x="1170.1" y="483.9" class="st32" width="29.1" height="7.4"/>
+</g>
+</svg>
